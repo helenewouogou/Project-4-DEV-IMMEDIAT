@@ -1,18 +1,21 @@
 # Project-4-DEV-IMMEDIAT
 Project 4 Collect Data in Compliance with General Data Protection Regulation
 
-Context and Mission Challenges:
+Client: DEV'IMMEDIAT 
 
-DEV'IMMEDIAT, a subsidiary of the automobile insurance sector, faces a significant compliance issue with the General Data Protection Regulation. The director is very concerned following the CNIL sanction due to the illegal collection and retention of customer data. She also informs us of a gap in the internal data management process structure to drive commercial performance. Our ESN (Enterprise Services Company) is called upon to carry out data collection and processing while adhering to General Data Protection Regulation regulations.
-Actions: Recommendations to be implemented on CRM data to ensure that DEV'IMMEDIAT complies with General Data Protection Regulation.
-Through the deliverables, you will have SQL queries used for extracting raw data as well as the processes applied to make the data GDPR -compliant, along with recommendations.
+Context and challenges of the assignment 
 
-Methodology/Tools Used: SQL, Excel, Power Query
+● DEV'IMMEDIAT, a car insurance subsidiary, has a major General Data Protection Regulation compliance issue. The director is very worried following the CNIL sanction due to illegal collection and storage of their customers' data. She also told us that the company lacked an internal data management process for steering sales performance. It called on our ESN to collect and process their data in compliance with the General Data Protection Regulation. 
+● Actions: Recommendations to be implemented on CRM data so that DEV'IMMEDIAT complies with the General Data Protection Regulation.
+ ● via the deliverables you will have the SQL queries used to extract the raw dataset as well as the processing carried out on the dataset to make them compatible with the General Data Protection Regulation as well as the recommendations.
+ 
+Methodology/tools used: SQL, Excel, Power Query
 
-Assessed Skills:
+Skills acquired
+- Collect data by applying protection standards
+- Document and transfer data to a preparation area in compliance with standards
+- Prepare data in compliance with quality processesPrepare data while ensuring compliance with quality processes
 
-Collect data while applying protection standards
-Document and transfer data to a preparation zone in accordance with standards
-Prepare data while ensuring compliance with quality processes
+
 
 
