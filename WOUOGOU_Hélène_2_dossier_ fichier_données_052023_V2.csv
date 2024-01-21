@@ -1,0 +1,1159 @@
+﻿sexe;id_client;formation;usage_vehicule;type_vehicule;est_rouge;type_conduite;etat_dossier;formule;Année_naissance;Présence_enft_cond_accomp;Présence_enfants;Cat_revenus;Cat_valeur_res_princ;Cat_points_perdus;Cat_age_veh;Année date_demande;Cat_Tarif_devis
+F;256F0164-D0C3;Bachelors;Commercial;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1999;non;oui;sup 100k€;_0;_0;5_10;2022;250_500
+F;A15B51A2-68A1;z_High School;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;1932;oui;oui;40-60k€;_0;0_3;0_5;2022;250_500
+F;8FF07119-3355;z_High School;Private;Pickup;no;z_Highly Rural/ Rural;complet;dev_express;1978;non;oui;20-40k€;_0;_0;0_5;2022;250_500
+F;380F6CCF-A05B;<High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;2021;non;non;0-20k€;100-200K€;0_3;0_5;2022;250_500
+M;3A8C751B-289C;Bachelors;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_vip;1956;non;non;;200-400K€;0_3;10_15;2022;500_750
+F;EE231D49-B4BB;Bachelors;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_premium;1992;non;oui;60-80k€;200-400K€;0_3;10_15;2022;250_500
+F;25D2F4C5-D67C;Bachelors;Commercial;Minivan;no;z_Highly Rural/ Rural;complet;dev_express;1941;oui;oui;sup 100k€;200-400K€;_0;5_10;2022;250_500
+M;6478D253-097A;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;1956;non;non;40-60k€;200-400K€;0_3;5_10;2022;250_500
+M;A23C36C3-9B87;PhD;Private;Minivan;no;Highly Urban/ Urban;complet;dev_premium;1956;non;non;sup 100k€;200-400K€;_0;10_15;2022;250_500
+F;FC84A57A-6BA6;Bachelors;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_integral;1974;non;non;;200-400K€;0_3;5_10;2022;250_500
+F;8C0D4EB8-756B;Bachelors;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;1967;oui;oui;20-40k€;_0;_0;5_10;2022;250_500
+M;D438A695-5DE9;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;2017;non;oui;20-40k€;0-100K€;_0;0_5;2022;250_500
+F;46CDB516-649D;PhD;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1950;non;non;60-80k€;_0;_0;sup 15;2022;250_500
+M;876DF3DD-3D5D;z_High School;Commercial;Van;no;z_Highly Rural/ Rural;complet;dev_integral;2017;non;non;0-20k€;_0;3_6;5_10;2022;250_500
+M;816C7BD5-3814;z_High School;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1945;non;oui;20-40k€;200-400K€;_0;0_5;2022;250_500
+M;2ECB0AEB-F15D;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;1938;non;non;40-60k€;100-200K€;_0;10_15;2022;250_500
+F;E5D49F95-EC49;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1973;non;non;sup 100k€;200-400K€;_0;10_15;2022;250_500
+F;79F94085-C70B;Bachelors;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_express;1936;non;non;40-60k€;_0;0_3;5_10;2022;250_500
+F;32E8E367-0E7B;Bachelors;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;1955;non;non;60-80k€;200-400K€;_0;10_15;2022;250_500
+F;C3092BF1-CFA0;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1940;non;non;40-60k€;100-200K€;_0;5_10;2022;250_500
+M;337F22FE-B1A9;Masters;Private;Minivan;no;z_Highly Rural/ Rural;complet;dev_express;1988;non;oui;60-80k€;200-400K€;_0;sup 15;2022;250_500
+M;4FDEBDE7-C55C;<High School;Private;Minivan;no;Highly Urban/ Urban;complet;dev_premium;1931;oui;oui;20-40k€;100-200K€;0_3;;2022;250_500
+F;2513A4FA-2B6E;z_High School;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_premium;2000;non;non;;100-200K€;_0;5_10;2022;250_500
+F;0E8701C4-0DAF;z_High School;Commercial;Sports Car;no;Highly Urban/ Urban;complet;dev_premium;1941;non;oui;40-60k€;200-400K€;3_6;0_5;2022;250_500
+M;E4B4E743-DBC5;<High School;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_express;2004;non;non;20-40k€;100-200K€;0_3;0_5;2022;250_500
+M;BB7FD198-A76D;z_High School;Private;Minivan;yes;z_Highly Rural/ Rural;complet;dev_express;1957;non;non;;;0_3;;2022;250_500
+F;189B996D-073E;<High School;Private;Sports Car;no;z_Highly Rural/ Rural;complet;dev_integral;1998;non;non;40-60k€;_0;_0;0_5;2022;250_500
+F;16DFB16D-F024;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1978;non;non;60-80k€;200-400K€;3_6;;2022;250_500
+F;FB0C89C5-473C;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_vip;1969;non;non;40-60k€;100-200K€;_0;0_5;2022;sup 750
+F;42B8FAD7-E233;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;2006;non;non;sup 100k€;200-400K€;_0;sup 15;2022;250_500
+F;2708C667-770E;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1974;non;oui;20-40k€;100-200K€;_0;0_5;2022;250_500
+M;FD737F27-E888;<High School;Commercial;Minivan;yes;z_Highly Rural/ Rural;complet;dev_integral;1984;non;oui;20-40k€;_0;3_6;0_5;2022;250_500
+F;C52D5A7B-FE10;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1957;non;non;sup 100k€;_0;0_3;5_10;2022;250_500
+M;BBD9BA12-3C34;<High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_premium;2018;non;non;20-40k€;100-200K€;0_3;5_10;2022;250_500
+M;B77C1176-C01C;Masters;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;1978;oui;oui;60-80k€;200-400K€;_0;10_15;2022;250_500
+F;2FAD1BAF-3B58;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1954;non;non;20-40k€;100-200K€;_0;5_10;2022;250_500
+F;84C9FF5C-D91C;Bachelors;Commercial;Sports Car;no;Highly Urban/ Urban;complet;dev_express;1961;non;non;20-40k€;100-200K€;_0;10_15;2022;250_500
+F;8A6957D8-219B;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;2016;non;oui;80-100k€;200-400K€;0_3;10_15;2022;250_500
+F;7FCE910C-D0C0;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1967;non;non;sup 100k€;_0;_0;10_15;2022;250_500
+M;C75ACB9E-9633;z_High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_premium;1988;non;non;40-60k€;100-200K€;0_3;10_15;2022;250_500
+F;20103A34-A99A;Bachelors;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;2004;oui;oui;;_0;_0;5_10;2022;250_500
+F;4948165D-ADFC;<High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1937;non;oui;0-20k€;_0;3_6;5_10;2022;250_500
+M;6AA21CE2-91E1;Bachelors;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_express;1963;non;oui;0-20k€;_0;_0;5_10;2022;250_500
+F;07C6AD7D-3687;z_High School;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_premium;1965;oui;oui;40-60k€;100-200K€;_0;;2022;250_500
+M;0583DA7F-4047;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1970;non;non;60-80k€;_0;_0;10_15;2022;250_500
+F;7A2E2048-ED9C;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1957;non;non;80-100k€;200-400K€;3_6;10_15;2022;250_500
+M;4CB770C5-FFF4;<High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1946;non;oui;0-20k€;0-100K€;0_3;0_5;2022;250_500
+F;6A2BD149-F116;Masters;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_integral;1981;non;non;sup 100k€;200-400K€;0_3;10_15;2022;250_500
+M;B470B77C-ACE5;Bachelors;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_integral;1945;non;non;80-100k€;_0;_0;5_10;2022;250_500
+F;0D3A7861-12F9;<High School;Private;Van;yes;z_Highly Rural/ Rural;complet;dev_integral;1984;oui;oui;40-60k€;100-200K€;0_3;0_5;2022;250_500
+F;2346D91D-27A8;<High School;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_integral;1998;non;non;20-40k€;100-200K€;6_9;0_5;2022;250_500
+F;CD0FDB58-F180;<High School;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;1974;non;oui;40-60k€;100-200K€;0_3;0_5;2022;250_500
+M;29C27077-B88C;Bachelors;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;2003;non;non;sup 100k€;200-400K€;_0;5_10;2022;250_500
+F;571BBC98-C276;Masters;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;1975;non;non;40-60k€;_0;_0;sup 15;2022;250_500
+F;E01CBAF0-107B;Bachelors;Commercial;Minivan;no;z_Highly Rural/ Rural;complet;dev_express;2016;non;non;60-80k€;200-400K€;3_6;5_10;2022;250_500
+M;08AC3EC9-AB99;PhD;Private;Van;no;Highly Urban/ Urban;complet;dev_premium;1974;non;non;60-80k€;200-400K€;_0;10_15;2022;250_500
+F;93331172-09E5;Masters;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_integral;1967;non;oui;40-60k€;100-200K€;3_6;5_10;2022;250_500
+M;2C58D155-078B;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1990;non;non;60-80k€;200-400K€;0_3;10_15;2022;250_500
+F;6486A955-C495;z_High School;Private;Van;yes;Highly Urban/ Urban;complet;dev_express;1950;oui;oui;20-40k€;;_0;0_5;2022;250_500
+F;687567C3-406D;z_High School;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;1992;oui;oui;20-40k€;_0;0_3;5_10;2022;250_500
+F;44F29641-70BE;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1950;non;non;80-100k€;200-400K€;_0;sup 15;2022;250_500
+F;5358AF5D-AE7B;Bachelors;Private;Pickup;no;Highly Urban/ Urban;complet;dev_express;1968;non;non;40-60k€;100-200K€;_0;5_10;2022;250_500
+F;77A13D07-98A0;Bachelors;Commercial;Van;no;Highly Urban/ Urban;complet;dev_integral;1952;non;oui;60-80k€;200-400K€;_0;0_5;2022;250_500
+F;72AE156A-6757;<High School;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;1942;non;oui;20-40k€;_0;_0;0_5;2022;250_500
+F;7477E7A6-452B;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;2019;non;non;0-20k€;100-200K€;_0;5_10;2022;250_500
+M;90B7D446-2CF5;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1972;non;non;60-80k€;200-400K€;3_6;0_5;2022;250_500
+M;25791B61-318B;Bachelors;Private;Pickup;no;Highly Urban/ Urban;complet;dev_express;1954;non;non;80-100k€;200-400K€;_0;5_10;2022;250_500
+M;DD4A3B4F-1219;<High School;Private;Minivan;no;z_Highly Rural/ Rural;complet;dev_express;1972;non;non;0-20k€;_0;0_3;0_5;2022;250_500
+M;A7FBBDB3-92F8;Bachelors;Private;z_SUV;yes;Highly Urban/ Urban;complet;dev_express;1950;non;oui;20-40k€;0-100K€;0_3;10_15;2022;250_500
+F;2A16072F-481F;Bachelors;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_integral;1999;non;non;80-100k€;_0;0_3;0_5;2022;250_500
+F;21D76FF2-7FEC;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;2019;non;non;60-80k€;_0;_0;5_10;2022;250_500
+M;B028CCEB-7A30;PhD;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1988;non;non;sup 100k€;sup 400K€;0_3;10_15;2022;250_500
+M;8AA18190-0816;Bachelors;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;2013;non;non;80-100k€;200-400K€;0_3;5_10;2022;250_500
+F;970C0763-DC84;z_High School;Private;Minivan;no;z_Highly Rural/ Rural;complet;dev_premium;1943;non;oui;60-80k€;;0_3;5_10;2022;250_500
+M;9FC88B99-FFD7;Bachelors;Private;Pickup;no;Highly Urban/ Urban;complet;dev_express;1944;non;non;40-60k€;100-200K€;_0;5_10;2022;250_500
+F;B4752211-224A;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1993;non;non;sup 100k€;_0;0_3;sup 15;2022;250_500
+F;1E37238A-8B2D;z_High School;Commercial;Minivan;no;Highly Urban/ Urban;complet;dev_express;1950;non;non;60-80k€;200-400K€;3_6;0_5;2022;250_500
+M;1E4E92C9-78F4;Bachelors;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_premium;1971;non;non;40-60k€;_0;3_6;10_15;2022;250_500
+F;8319CD08-56E6;<High School;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;1970;non;non;40-60k€;100-200K€;3_6;5_10;2022;250_500
+M;68E42C78-DEC8;z_High School;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_premium;1962;non;non;sup 100k€;_0;0_3;0_5;2022;250_500
+M;790A5BA5-B970;z_High School;Private;Sports Car;no;z_Highly Rural/ Rural;complet;dev_express;1940;non;non;0-20k€;_0;_0;0_5;2022;250_500
+M;8D7DC570-0169;z_High School;Commercial;Van;yes;z_Highly Rural/ Rural;complet;dev_express;1959;non;non;sup 100k€;_0;_0;5_10;2022;250_500
+F;CE6031AB-62BD;Bachelors;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1959;non;oui;20-40k€;;_0;0_5;2022;250_500
+M;CC96CE2B-194C;<High School;Private;Sports Car;no;z_Highly Rural/ Rural;complet;dev_express;1959;non;non;0-20k€;_0;0_3;;2022;250_500
+M;ECEDC432-422F;z_High School;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_express;1961;non;non;40-60k€;;0_3;5_10;2022;250_500
+M;BC27DA34-9DE7;z_High School;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;1982;non;non;40-60k€;100-200K€;_0;5_10;2022;250_500
+M;3CA26941-F2EF;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_premium;1970;non;non;;_0;_0;sup 15;2022;250_500
+F;8477CEB7-4A46;z_High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_express;2001;oui;oui;20-40k€;_0;_0;0_5;2022;250_500
+M;0237609E-5A57;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_premium;1974;non;non;40-60k€;200-400K€;_0;10_15;2022;500_750
+M;26607030-39BE;Masters;Private;Sports Car;no;z_Highly Rural/ Rural;complet;dev_integral;1965;non;oui;40-60k€;100-200K€;_0;0_5;2022;250_500
+M;DAF763F8-04EE;z_High School;Commercial;Minivan;no;Highly Urban/ Urban;complet;dev_express;1943;non;non;40-60k€;100-200K€;0_3;0_5;2022;250_500
+F;AA218693-0DEF;<High School;Private;Minivan;no;Highly Urban/ Urban;complet;dev_premium;2012;non;oui;20-40k€;100-200K€;0_3;0_5;2022;250_500
+F;2016DDFD-CB07;z_High School;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_premium;2018;non;non;80-100k€;200-400K€;3_6;0_5;2022;250_500
+M;1E6B270F-0156;z_High School;Private;Van;yes;Highly Urban/ Urban;complet;dev_express;1961;non;non;40-60k€;_0;_0;0_5;2022;250_500
+F;539533F7-6CCA;Bachelors;Private;Pickup;no;Highly Urban/ Urban;complet;dev_integral;1953;non;non;60-80k€;100-200K€;3_6;10_15;2022;250_500
+F;7B938060-64F8;z_High School;Commercial;Pickup;yes;z_Highly Rural/ Rural;complet;dev_integral;1972;non;non;20-40k€;;0_3;0_5;2022;250_500
+M;B82A8AAC-61D0;z_High School;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;1962;non;non;20-40k€;_0;6_9;0_5;2022;250_500
+F;423E1A57-1CAC;<High School;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1987;oui;oui;40-60k€;100-200K€;_0;5_10;2022;250_500
+M;F8029335-14D0;PhD;Private;Van;yes;Highly Urban/ Urban;complet;dev_integral;1981;non;oui;60-80k€;200-400K€;0_3;5_10;2022;250_500
+M;A6287AD7-A3D6;z_High School;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;2004;non;non;60-80k€;_0;_0;0_5;2022;250_500
+M;05636831-B1B9;Masters;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_integral;1957;non;oui;0-20k€;0-100K€;0_3;10_15;2022;250_500
+F;E4FD7207-F1BD;z_High School;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;2000;non;oui;40-60k€;200-400K€;_0;0_5;2022;250_500
+M;2FEB5768-6429;Bachelors;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1971;non;non;sup 100k€;_0;3_6;10_15;2022;250_500
+M;6102ECED-0F8B;Masters;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_express;2013;non;non;sup 100k€;_0;3_6;sup 15;2022;250_500
+M;2E4C385F-F335;Bachelors;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_premium;1962;non;non;60-80k€;_0;0_3;10_15;2022;250_500
+M;A9A11792-AF4C;PhD;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_integral;1999;non;oui;;sup 400K€;_0;10_15;2022;250_500
+F;BD19E10D-79E1;<High School;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1951;oui;oui;0-20k€;100-200K€;_0;0_5;2022;250_500
+M;4DA1FBB0-CEDF;Bachelors;Commercial;Minivan;yes;z_Highly Rural/ Rural;complet;dev_integral;1983;non;oui;60-80k€;200-400K€;0_3;10_15;2022;250_500
+F;E5BAEC9D-3DC8;Bachelors;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;1965;non;oui;sup 100k€;200-400K€;3_6;10_15;2022;250_500
+M;ED4D7A2D-15DA;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;1932;non;non;0-20k€;100-200K€;_0;5_10;2022;250_500
+M;03EEE359-5DFD;Bachelors;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1970;non;non;60-80k€;100-200K€;_0;5_10;2022;250_500
+M;E155C3CD-5B97;Bachelors;Commercial;Minivan;no;Highly Urban/ Urban;complet;dev_express;1968;oui;oui;sup 100k€;200-400K€;_0;10_15;2022;250_500
+M;E06651EC-88EC;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1954;non;oui;0-20k€;100-200K€;_0;5_10;2022;250_500
+F;24C8F55C-6148;z_High School;Commercial;Minivan;no;Highly Urban/ Urban;complet;dev_express;1958;non;oui;40-60k€;100-200K€;0_3;5_10;2022;250_500
+F;624548B3-90A4;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;1967;non;non;80-100k€;200-400K€;_0;10_15;2022;250_500
+F;9ADD8BC3-9CC6;<High School;Private;Minivan;no;z_Highly Rural/ Rural;complet;dev_premium;1971;oui;oui;20-40k€;100-200K€;_0;0_5;2022;250_500
+F;EBCD8269-76DD;Bachelors;Private;Sports Car;no;z_Highly Rural/ Rural;complet;dev_express;1945;oui;oui;40-60k€;100-200K€;_0;10_15;2022;250_500
+F;796042DE-85B3;z_High School;Private;Pickup;no;Highly Urban/ Urban;complet;dev_integral;1961;oui;oui;0-20k€;100-200K€;_0;5_10;2022;250_500
+M;9A3EB705-1D55;z_High School;Commercial;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;2014;oui;oui;40-60k€;_0;0_3;0_5;2022;250_500
+M;728AAFA6-AF4D;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;2019;non;non;60-80k€;200-400K€;_0;10_15;2022;250_500
+M;0826F166-852A;PhD;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_integral;1953;non;non;0-20k€;100-200K€;_0;10_15;2022;250_500
+M;FF2E69C1-4C45;Masters;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;1966;non;oui;80-100k€;200-400K€;0_3;10_15;2022;250_500
+M;16500161-0E8C;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1953;non;non;sup 100k€;_0;_0;10_15;2022;250_500
+F;E3E4B7BA-C0FC;Bachelors;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_integral;1974;non;non;60-80k€;200-400K€;_0;10_15;2022;250_500
+F;85EB951F-4168;Masters;Private;Van;no;Highly Urban/ Urban;complet;dev_integral;1994;non;oui;20-40k€;100-200K€;3_6;5_10;2022;250_500
+M;EB994F83-478F;Bachelors;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1990;non;non;80-100k€;_0;_0;5_10;2022;250_500
+M;38D7CD17-9287;z_High School;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1954;non;non;sup 100k€;200-400K€;0_3;0_5;2022;250_500
+M;A6BAF3CF-CCDA;z_High School;Commercial;Minivan;yes;z_Highly Rural/ Rural;complet;dev_express;2006;non;non;0-20k€;0-100K€;6_9;0_5;2022;250_500
+M;14274A38-4E87;Bachelors;Commercial;Sports Car;no;Highly Urban/ Urban;complet;dev_premium;2002;non;non;40-60k€;200-400K€;0_3;;2022;500_750
+M;9A6B1658-BE2D;PhD;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;1964;non;non;sup 100k€;200-400K€;0_3;10_15;2022;250_500
+F;1D691A27-AA58;Bachelors;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;1953;non;oui;0-20k€;0-100K€;_0;10_15;2022;250_500
+F;3ABA31B2-3391;z_High School;Private;Minivan;no;Highly Urban/ Urban;complet;dev_vip;1952;non;oui;20-40k€;_0;6_9;5_10;2022;500_750
+M;6DD5CCD3-4EC4;<High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_express;2014;non;oui;0-20k€;0-100K€;_0;0_5;2022;250_500
+M;9EDB4CD3-785C;z_High School;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;1967;non;non;20-40k€;100-200K€;0_3;0_5;2022;250_500
+F;CA47670A-F250;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;2018;oui;oui;40-60k€;100-200K€;_0;5_10;2022;250_500
+F;702CFB1D-7AE0;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1932;non;oui;80-100k€;_0;_0;sup 15;2022;250_500
+M;7EBABE16-187A;Masters;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_integral;2011;non;non;40-60k€;200-400K€;0_3;10_15;2022;250_500
+M;400D92A5-CF6F;Masters;Commercial;Van;no;Highly Urban/ Urban;complet;dev_express;1987;oui;oui;sup 100k€;200-400K€;3_6;5_10;2022;250_500
+M;16C72474-6EF1;z_High School;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1971;non;oui;40-60k€;100-200K€;3_6;0_5;2022;250_500
+F;FB98C21D-9C4A;z_High School;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_premium;1977;non;oui;;0-100K€;3_6;5_10;2022;500_750
+M;1424DDB1-8349;z_High School;Commercial;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1972;non;non;80-100k€;200-400K€;0_3;5_10;2022;250_500
+F;7C5D65D3-8688;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1971;non;non;sup 100k€;200-400K€;_0;5_10;2022;250_500
+F;47BA6B44-4103;Bachelors;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_integral;2017;non;oui;sup 100k€;sup 400K€;_0;10_15;2022;250_500
+M;0E717D0C-E517;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;1941;non;non;40-60k€;_0;3_6;10_15;2022;500_750
+M;11272A5F-9534;z_High School;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1936;non;oui;0-20k€;_0;6_9;;2022;250_500
+M;FD5D8684-3D38;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1972;non;non;20-40k€;100-200K€;0_3;10_15;2022;250_500
+M;6BD5856E-ACC2;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1961;non;non;80-100k€;200-400K€;_0;5_10;2022;250_500
+M;10317DCF-88E8;z_High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_integral;1982;oui;oui;20-40k€;_0;0_3;5_10;2022;250_500
+F;14AF864D-E97D;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1951;non;non;80-100k€;200-400K€;_0;sup 15;2022;250_500
+F;957DFBF6-C8DD;Masters;Private;Minivan;no;z_Highly Rural/ Rural;complet;dev_express;1947;non;non;80-100k€;200-400K€;_0;10_15;2022;250_500
+M;636BBB92-0DA8;z_High School;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1946;non;non;40-60k€;200-400K€;_0;5_10;2022;250_500
+F;DC82B8A5-3A7B;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1959;non;non;60-80k€;_0;0_3;0_5;2022;250_500
+F;A55A8866-53F0;PhD;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;1962;non;oui;;200-400K€;0_3;0_5;2022;250_500
+M;C95F8F76-1118;<High School;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;1992;non;non;20-40k€;100-200K€;0_3;0_5;2022;250_500
+F;CC04E391-B543;z_High School;Commercial;Pickup;yes;z_Highly Rural/ Rural;complet;dev_integral;1948;non;oui;20-40k€;_0;_0;5_10;2022;250_500
+M;820891B1-64B8;PhD;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_integral;1941;oui;oui;sup 100k€;sup 400K€;_0;10_15;2022;250_500
+F;8C659475-0F9D;<High School;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;1955;non;oui;0-20k€;100-200K€;3_6;0_5;2022;250_500
+M;421D72D6-73BD;Masters;Private;Pickup;no;Highly Urban/ Urban;complet;dev_integral;1951;non;non;60-80k€;200-400K€;_0;10_15;2022;250_500
+M;4A4CFDAB-2F11;Bachelors;Commercial;Minivan;yes;z_Highly Rural/ Rural;complet;dev_integral;1939;non;non;sup 100k€;200-400K€;_0;5_10;2022;250_500
+M;FCE86011-B457;z_High School;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1958;non;non;80-100k€;200-400K€;3_6;0_5;2022;250_500
+M;4C0DBF3E-0A35;Bachelors;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1954;oui;oui;80-100k€;200-400K€;_0;5_10;2022;250_500
+M;3617FBC1-E67A;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;1991;non;non;sup 100k€;200-400K€;0_3;10_15;2022;250_500
+F;69F74CAB-7FEA;Masters;Private;Minivan;no;z_Highly Rural/ Rural;complet;dev_integral;1975;oui;oui;sup 100k€;200-400K€;0_3;10_15;2022;250_500
+F;FC49C1D3-FD5B;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1952;non;oui;40-60k€;100-200K€;_0;10_15;2022;250_500
+F;21FBB0E4-624A;Bachelors;Private;Sports Car;no;z_Highly Rural/ Rural;complet;dev_express;1969;non;non;0-20k€;_0;0_3;5_10;2022;250_500
+F;ACCF710A-E467;<High School;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;1972;oui;oui;0-20k€;_0;0_3;0_5;2022;250_500
+F;1F58EC6C-AFED;Masters;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1932;non;oui;60-80k€;200-400K€;_0;sup 15;2022;250_500
+F;070C122D-0F1F;z_High School;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_integral;2000;non;oui;40-60k€;_0;_0;0_5;2022;250_500
+F;7A7C1D2F-3342;Masters;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_integral;1967;non;non;sup 100k€;200-400K€;0_3;;2022;250_500
+F;EB513C39-48A8;z_High School;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1950;non;non;20-40k€;100-200K€;0_3;10_15;2022;250_500
+M;2A082883-EC1E;Bachelors;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_express;1984;non;oui;60-80k€;200-400K€;0_3;10_15;2022;250_500
+F;FEFD2523-238D;z_High School;Commercial;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1994;non;non;0-20k€;100-200K€;0_3;0_5;2022;250_500
+M;7E975BC4-0683;Bachelors;Commercial;Minivan;no;z_Highly Rural/ Rural;complet;dev_integral;1967;non;non;80-100k€;200-400K€;_0;10_15;2022;250_500
+F;8690A4AC-E452;PhD;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1973;non;oui;60-80k€;100-200K€;_0;sup 15;2022;250_500
+M;D991BB80-BD38;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1970;non;non;0-20k€;_0;0_3;0_5;2022;250_500
+M;EADA549A-6121;Masters;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_integral;1947;non;non;sup 100k€;200-400K€;3_6;;2022;250_500
+F;F1ECC40D-B893;z_High School;Commercial;Van;no;Highly Urban/ Urban;complet;dev_express;1965;non;non;0-20k€;_0;_0;10_15;2022;250_500
+M;A40E7AAD-B312;Masters;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;1993;non;non;;_0;_0;sup 15;2022;250_500
+M;E8B3A896-0FDD;z_High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_integral;1960;non;oui;0-20k€;100-200K€;_0;0_5;2022;250_500
+F;6E5CD65B-71E4;z_High School;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_premium;1968;non;oui;40-60k€;100-200K€;_0;5_10;2022;500_750
+F;2320FE4D-3A6E;Bachelors;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_express;1941;non;non;60-80k€;200-400K€;0_3;;2022;250_500
+F;F6EBFCB3-0D5C;z_High School;Commercial;Van;no;z_Highly Rural/ Rural;complet;dev_express;1998;oui;oui;20-40k€;200-400K€;0_3;5_10;2022;250_500
+M;38737251-55AA;Bachelors;Commercial;Panel Truck;yes;z_Highly Rural/ Rural;complet;dev_integral;1970;non;non;sup 100k€;sup 400K€;_0;10_15;2022;250_500
+F;AF9038E9-9CCE;PhD;Private;Van;yes;Highly Urban/ Urban;complet;dev_premium;1938;non;non;sup 100k€;_0;_0;5_10;2022;250_500
+F;826305C7-FAD1;z_High School;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_express;1955;non;non;0-20k€;100-200K€;0_3;0_5;2022;250_500
+M;28D500AD-DF01;z_High School;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;2000;oui;oui;40-60k€;200-400K€;3_6;0_5;2022;250_500
+F;81BEE3ED-840D;<High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1957;non;non;20-40k€;;_0;0_5;2022;250_500
+F;87C5069E-6A31;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;2003;non;oui;0-20k€;0-100K€;_0;5_10;2022;250_500
+F;BC84082A-8EBF;<High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;1953;non;non;0-20k€;100-200K€;_0;0_5;2022;250_500
+F;E840B285-F71E;Bachelors;Private;Minivan;no;Highly Urban/ Urban;complet;dev_vip;2012;non;non;80-100k€;_0;_0;10_15;2022;500_750
+M;6182F45E-1869;Masters;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_express;1975;non;non;60-80k€;_0;3_6;;2022;250_500
+M;2FFF1AC4-A65B;z_High School;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_premium;2017;non;non;20-40k€;100-200K€;0_3;0_5;2022;250_500
+F;0F39EC24-12A6;Masters;Private;Sports Car;no;z_Highly Rural/ Rural;complet;dev_integral;1956;non;non;sup 100k€;200-400K€;_0;5_10;2022;250_500
+F;F25F35A3-141C;z_High School;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_premium;1995;non;non;40-60k€;100-200K€;0_3;0_5;2022;250_500
+F;5063F169-B957;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1972;non;non;sup 100k€;sup 400K€;_0;10_15;2022;250_500
+F;B800D3EC-F9BD;Bachelors;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_premium;1957;non;oui;40-60k€;200-400K€;0_3;5_10;2022;250_500
+F;5A99D52E-3081;PhD;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;1969;non;oui;40-60k€;_0;3_6;sup 15;2022;250_500
+M;7F451348-0E8F;Bachelors;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_express;1939;non;non;sup 100k€;200-400K€;0_3;10_15;2022;250_500
+F;26F5E02E-181B;<High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1974;non;oui;20-40k€;100-200K€;_0;0_5;2022;250_500
+F;13D095F2-813D;z_High School;Commercial;Minivan;no;z_Highly Rural/ Rural;complet;dev_express;1957;non;non;20-40k€;100-200K€;_0;;2022;250_500
+M;BA0479DF-C37F;z_High School;Private;Sports Car;yes;Highly Urban/ Urban;complet;dev_express;2008;non;non;40-60k€;0-100K€;6_9;5_10;2022;250_500
+M;BE8F4F90-783D;z_High School;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_integral;1951;non;non;60-80k€;200-400K€;3_6;5_10;2022;250_500
+M;F6FED443-7523;z_High School;Commercial;Minivan;yes;Highly Urban/ Urban;complet;dev_premium;1960;oui;oui;40-60k€;100-200K€;_0;0_5;2022;250_500
+F;0720712D-84FF;Bachelors;Commercial;z_SUV;no;z_Highly Rural/ Rural;complet;dev_premium;1946;non;non;40-60k€;200-400K€;0_3;10_15;2022;500_750
+M;0D7DEF57-A4BC;z_High School;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;1940;non;oui;20-40k€;100-200K€;0_3;5_10;2022;250_500
+M;E251E9EF-AA2C;z_High School;Commercial;Minivan;yes;Highly Urban/ Urban;complet;dev_express;1972;non;non;40-60k€;_0;_0;0_5;2022;250_500
+M;7F9A2E19-7992;Bachelors;Commercial;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1941;non;non;60-80k€;;3_6;;2022;250_500
+M;A6E88BF6-24EA;Bachelors;Private;Minivan;no;z_Highly Rural/ Rural;complet;dev_express;1964;non;non;20-40k€;_0;_0;10_15;2022;250_500
+M;8E520700-8988;z_High School;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_premium;1961;oui;oui;20-40k€;100-200K€;0_3;5_10;2022;500_750
+F;AA703FE4-9E86;<High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_integral;1971;non;oui;20-40k€;100-200K€;_0;0_5;2022;250_500
+F;F1E26CCA-072E;Bachelors;Private;Minivan;no;z_Highly Rural/ Rural;complet;dev_integral;2004;oui;oui;40-60k€;100-200K€;0_3;5_10;2022;250_500
+F;B7081EC9-780B;PhD;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_express;1974;non;non;sup 100k€;200-400K€;0_3;sup 15;2022;250_500
+F;7654C1AD-E097;PhD;Private;z_SUV;yes;Highly Urban/ Urban;complet;dev_integral;1960;non;non;40-60k€;_0;0_3;;2022;250_500
+F;34D5FD60-4868;Bachelors;Commercial;Van;no;Highly Urban/ Urban;complet;dev_express;1973;non;non;40-60k€;200-400K€;0_3;0_5;2022;250_500
+M;2723064D-E5F4;z_High School;Commercial;Van;no;Highly Urban/ Urban;complet;dev_integral;1966;non;oui;40-60k€;100-200K€;3_6;;2022;250_500
+M;922AD705-1B7F;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;1959;non;non;sup 100k€;200-400K€;_0;10_15;2022;500_750
+F;78D5BF3B-7291;z_High School;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_express;1970;non;oui;20-40k€;100-200K€;0_3;5_10;2022;250_500
+F;E59C9A8F-E5D7;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;2017;non;non;60-80k€;_0;6_9;sup 15;2022;250_500
+M;443620BD-E1DA;<High School;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_premium;1960;non;non;20-40k€;0-100K€;_0;0_5;2022;500_750
+M;3FB62120-FCA5;z_High School;Private;Minivan;no;z_Highly Rural/ Rural;complet;dev_integral;1953;oui;oui;20-40k€;100-200K€;0_3;0_5;2022;250_500
+M;0BAFBBE7-3C6D;PhD;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1950;non;oui;sup 100k€;200-400K€;_0;sup 15;2022;250_500
+M;0A5C104E-60C5;PhD;Commercial;Pickup;no;z_Highly Rural/ Rural;complet;dev_integral;1955;oui;oui;;100-200K€;_0;sup 15;2022;250_500
+F;3478E927-F304;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;1993;non;non;60-80k€;200-400K€;3_6;0_5;2022;500_750
+F;5E1D2503-EB76;Bachelors;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;2019;non;oui;sup 100k€;200-400K€;3_6;0_5;2022;250_500
+F;2E24C232-113F;Bachelors;Commercial;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1940;non;non;20-40k€;100-200K€;_0;0_5;2022;250_500
+M;0EA1D382-C73C;Bachelors;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;1968;non;non;sup 100k€;200-400K€;3_6;5_10;2022;250_500
+F;32168B59-46D6;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1958;non;non;20-40k€;_0;0_3;5_10;2022;250_500
+M;E7D7F330-D91C;z_High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_premium;1997;non;oui;20-40k€;100-200K€;_0;0_5;2022;250_500
+F;89C04D39-BB24;<High School;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_premium;1954;non;non;0-20k€;_0;_0;0_5;2022;250_500
+F;189EB556-28D6;<High School;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_express;1941;non;non;20-40k€;100-200K€;3_6;0_5;2022;250_500
+F;31BA6F9A-4005;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1997;non;non;40-60k€;100-200K€;0_3;;2022;250_500
+M;1EE2104D-C334;Bachelors;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;2020;oui;oui;60-80k€;200-400K€;_0;5_10;2022;250_500
+F;5A24BB93-2D36;PhD;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;1992;non;non;60-80k€;200-400K€;0_3;;2022;250_500
+F;D109161E-05F9;Bachelors;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1980;non;non;60-80k€;_0;0_3;5_10;2022;250_500
+F;ACB7E005-2255;<High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_integral;1956;non;oui;0-20k€;_0;0_3;5_10;2022;250_500
+M;F4F38DAB-05B3;Masters;Private;Pickup;no;Highly Urban/ Urban;complet;dev_integral;1955;non;non;40-60k€;100-200K€;_0;sup 15;2022;250_500
+F;91D377D0-8E42;PhD;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_premium;1986;non;non;sup 100k€;sup 400K€;_0;10_15;2022;500_750
+F;4E0798AB-5C96;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1957;non;non;sup 100k€;sup 400K€;_0;10_15;2022;250_500
+M;0227C015-9AC9;<High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1951;non;oui;20-40k€;_0;3_6;0_5;2022;250_500
+F;A4815EC1-575B;PhD;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1954;non;non;80-100k€;200-400K€;0_3;5_10;2022;250_500
+F;89032071-C2B2;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;1981;non;non;60-80k€;;_0;10_15;2022;250_500
+M;133AAD2A-AB23;z_High School;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1960;non;non;80-100k€;200-400K€;_0;5_10;2022;250_500
+F;549A5BAF-7D09;Bachelors;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_express;1940;non;non;0-20k€;_0;_0;10_15;2022;250_500
+F;D78B2A91-5DC4;Masters;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;1945;oui;oui;60-80k€;;3_6;10_15;2022;250_500
+M;7866B445-2B0C;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;2013;non;oui;40-60k€;_0;0_3;0_5;2022;250_500
+F;8A1B4726-3494;Bachelors;Private;Van;yes;Highly Urban/ Urban;complet;dev_integral;1937;non;non;;200-400K€;0_3;10_15;2022;250_500
+M;3D0B6DBA-04C5;z_High School;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_premium;1990;oui;oui;60-80k€;100-200K€;_0;5_10;2022;250_500
+M;FE53999E-C628;<High School;Commercial;Van;yes;z_Highly Rural/ Rural;complet;dev_integral;2015;non;oui;0-20k€;100-200K€;_0;0_5;2022;250_500
+M;B1E97426-892C;z_High School;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_integral;1987;non;non;20-40k€;100-200K€;_0;5_10;2022;250_500
+F;505144AC-C302;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1993;non;non;80-100k€;200-400K€;0_3;10_15;2022;250_500
+M;56C8EC4F-06D7;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;2006;non;non;sup 100k€;200-400K€;0_3;sup 15;2022;250_500
+F;A9F15F1B-40F5;z_High School;Commercial;z_SUV;no;z_Highly Rural/ Rural;complet;dev_express;1987;non;non;40-60k€;_0;3_6;10_15;2022;250_500
+M;6CB896BB-056D;Bachelors;Commercial;Minivan;no;Highly Urban/ Urban;complet;dev_premium;1969;non;non;40-60k€;100-200K€;0_3;5_10;2022;250_500
+F;0CD040E6-0CFC;Masters;Private;Van;yes;Highly Urban/ Urban;complet;dev_express;1966;non;non;sup 100k€;200-400K€;_0;sup 15;2022;250_500
+M;A9F4C039-8370;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;2016;non;non;20-40k€;_0;_0;5_10;2022;250_500
+M;F5FBA216-CA45;Bachelors;Commercial;Van;yes;z_Highly Rural/ Rural;complet;dev_premium;1963;non;oui;80-100k€;200-400K€;0_3;;2022;250_500
+M;42A26FC3-5131;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1965;non;oui;;100-200K€;_0;sup 15;2022;250_500
+F;CF5DFCC7-0E94;<High School;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;2002;oui;oui;20-40k€;;_0;0_5;2022;250_500
+F;A7AE4267-89E8;z_High School;Private;Minivan;yes;z_Highly Rural/ Rural;complet;dev_premium;1937;non;non;0-20k€;_0;_0;0_5;2022;250_500
+F;EB17D126-15F2;Bachelors;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_express;1954;non;non;40-60k€;;3_6;5_10;2022;250_500
+F;5CE23191-30FB;Bachelors;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_integral;2014;non;non;60-80k€;200-400K€;3_6;5_10;2022;250_500
+F;116EEFFD-2083;Bachelors;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_express;1944;non;oui;80-100k€;200-400K€;0_3;5_10;2022;250_500
+M;31145652-9C90;Masters;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_integral;2015;non;non;sup 100k€;_0;_0;sup 15;2022;250_500
+M;A553B0E1-E3A2;Bachelors;Commercial;Van;no;Highly Urban/ Urban;complet;dev_express;2010;non;non;80-100k€;_0;6_9;5_10;2022;250_500
+M;583C8E20-72B2;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1947;non;non;0-20k€;100-200K€;3_6;;2022;250_500
+M;099F08A1-D449;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1967;non;non;60-80k€;200-400K€;0_3;5_10;2022;250_500
+M;92679658-3114;Bachelors;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_premium;1973;non;non;80-100k€;200-400K€;0_3;0_5;2022;250_500
+M;8FEA3D70-27A2;PhD;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_express;2009;non;non;sup 100k€;sup 400K€;3_6;10_15;2022;250_500
+F;53FDE82B-75A7;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1953;non;non;60-80k€;200-400K€;_0;10_15;2022;250_500
+F;3BE7F8DF-2690;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_premium;1965;non;non;sup 100k€;200-400K€;3_6;10_15;2022;250_500
+F;D699AC50-555E;Bachelors;Commercial;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1988;non;non;40-60k€;100-200K€;3_6;10_15;2022;250_500
+M;A78D4E72-4876;PhD;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_express;1955;non;non;sup 100k€;sup 400K€;0_3;10_15;2022;250_500
+F;E6986BA8-2F0C;z_High School;Commercial;Van;no;Highly Urban/ Urban;complet;dev_integral;1981;non;non;80-100k€;200-400K€;0_3;5_10;2022;250_500
+M;F2C56807-8FA1;z_High School;Private;Van;no;Highly Urban/ Urban;complet;dev_express;2001;non;non;60-80k€;200-400K€;_0;0_5;2022;250_500
+M;F17409AE-C7B7;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1974;non;oui;40-60k€;_0;0_3;0_5;2022;250_500
+F;831B28C5-E7AF;PhD;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_express;1938;non;non;80-100k€;200-400K€;3_6;5_10;2022;250_500
+M;494A7344-C6C3;Bachelors;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_integral;1988;oui;oui;80-100k€;200-400K€;3_6;5_10;2022;250_500
+M;71F6A591-6917;<High School;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_express;1965;non;non;20-40k€;_0;3_6;0_5;2022;250_500
+M;27BA787E-B3E6;Masters;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_integral;2000;non;non;sup 100k€;200-400K€;0_3;sup 15;2022;250_500
+M;9D63F700-DF4C;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1951;non;non;0-20k€;_0;0_3;0_5;2022;250_500
+M;65131496-52A5;Masters;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1966;non;non;60-80k€;100-200K€;_0;10_15;2022;250_500
+M;79CDA1DA-23B6;PhD;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_premium;2018;non;non;0-20k€;_0;3_6;10_15;2022;500_750
+F;3D34385B-3A96;z_High School;Private;Sports Car;no;z_Highly Rural/ Rural;complet;dev_integral;2018;non;non;60-80k€;_0;_0;10_15;2022;250_500
+F;118794F1-D1EE;Bachelors;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1978;non;non;20-40k€;100-200K€;3_6;10_15;2022;250_500
+F;21DB1816-EA2A;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1938;non;non;60-80k€;200-400K€;_0;0_5;2022;250_500
+F;3CABC2E9-CAD1;<High School;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_integral;2006;non;non;20-40k€;100-200K€;0_3;0_5;2022;250_500
+F;0775433D-7339;z_High School;Commercial;Pickup;yes;z_Highly Rural/ Rural;complet;dev_integral;1983;non;non;20-40k€;100-200K€;_0;5_10;2022;250_500
+M;5FDA9741-281A;Bachelors;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1952;non;non;;100-200K€;0_3;5_10;2022;250_500
+F;8C08A142-45C2;Masters;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_express;1947;non;non;sup 100k€;_0;_0;sup 15;2022;250_500
+M;FD708181-37A6;Bachelors;Private;Pickup;no;Highly Urban/ Urban;complet;dev_premium;1964;non;oui;60-80k€;100-200K€;0_3;10_15;2022;500_750
+M;BC0166A0-B140;z_High School;Private;Pickup;no;Highly Urban/ Urban;complet;dev_express;1966;non;non;40-60k€;100-200K€;3_6;5_10;2022;250_500
+M;E2EA92C8-2DA6;z_High School;Private;Pickup;no;Highly Urban/ Urban;complet;dev_integral;2006;non;non;40-60k€;200-400K€;_0;5_10;2022;250_500
+M;26F71027-753B;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;2020;non;non;20-40k€;100-200K€;0_3;;2022;250_500
+M;DA7DA4A3-8917;Bachelors;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_integral;2017;non;non;60-80k€;200-400K€;_0;0_5;2022;250_500
+F;0351B0FF-78FF;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;2001;non;oui;20-40k€;100-200K€;0_3;0_5;2022;250_500
+F;1AE50DF7-1882;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1977;non;oui;80-100k€;200-400K€;_0;10_15;2022;250_500
+F;34575F65-DDB9;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;2010;non;non;40-60k€;_0;3_6;;2022;500_750
+F;19BA6E49-0C53;Bachelors;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;1934;oui;oui;sup 100k€;200-400K€;0_3;10_15;2022;250_500
+F;4ED32CAB-38F1;Masters;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_integral;1955;non;non;60-80k€;_0;0_3;5_10;2022;250_500
+F;921B9BBE-5E42;Masters;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_express;2004;non;oui;40-60k€;100-200K€;0_3;sup 15;2022;250_500
+M;ED643A49-21AC;z_High School;Commercial;Sports Car;no;z_Highly Rural/ Rural;complet;dev_integral;1979;non;non;20-40k€;100-200K€;_0;0_5;2022;250_500
+F;98F415B0-89E5;z_High School;Private;Pickup;no;z_Highly Rural/ Rural;complet;dev_integral;2020;non;oui;80-100k€;_0;_0;5_10;2022;250_500
+F;C81CBAAB-84EA;z_High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_express;1973;non;oui;0-20k€;_0;_0;0_5;2022;250_500
+F;5E37BC06-435E;<High School;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1954;oui;oui;0-20k€;_0;0_3;0_5;2022;250_500
+F;171D01AC-6450;Bachelors;Private;Pickup;no;z_Highly Rural/ Rural;complet;dev_express;1943;non;non;40-60k€;200-400K€;_0;5_10;2022;250_500
+F;93AC8258-EE44;PhD;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;1954;non;non;sup 100k€;_0;_0;10_15;2022;250_500
+M;1DBD8E37-902B;Masters;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_express;2013;non;non;sup 100k€;200-400K€;3_6;sup 15;2022;250_500
+F;FE9145D3-01EE;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1951;non;non;0-20k€;0-100K€;_0;0_5;2022;250_500
+F;2977EB69-98C1;Bachelors;Private;Minivan;no;Highly Urban/ Urban;complet;dev_premium;2005;non;non;60-80k€;200-400K€;_0;10_15;2022;250_500
+F;61F5C7AD-31FE;PhD;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_express;1971;non;non;sup 100k€;_0;3_6;sup 15;2022;250_500
+F;5FEDAABA-7146;Bachelors;Commercial;Minivan;no;z_Highly Rural/ Rural;complet;dev_express;1976;non;non;0-20k€;;_0;10_15;2022;250_500
+M;A1D9A7F7-E9C1;z_High School;Commercial;Sports Car;yes;Highly Urban/ Urban;complet;dev_express;1988;non;non;40-60k€;100-200K€;_0;5_10;2022;250_500
+M;682221E4-6339;z_High School;Private;Minivan;no;z_Highly Rural/ Rural;complet;dev_premium;1985;non;non;20-40k€;100-200K€;_0;5_10;2022;250_500
+M;8E145A0D-69D0;Bachelors;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1957;oui;oui;40-60k€;100-200K€;0_3;0_5;2022;250_500
+F;8525A0F3-2F49;Masters;Private;Pickup;no;Highly Urban/ Urban;complet;dev_integral;1962;non;oui;sup 100k€;200-400K€;0_3;10_15;2022;250_500
+M;302344B6-B8E9;<High School;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;2003;non;non;0-20k€;_0;_0;0_5;2022;250_500
+M;7C29BCC2-A89A;Masters;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_premium;1941;non;non;sup 100k€;;_0;10_15;2022;250_500
+F;F089E3C5-B5A2;<High School;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_integral;2012;non;non;20-40k€;100-200K€;_0;5_10;2022;250_500
+F;CB31F2A3-AD28;<High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_express;1974;non;oui;0-20k€;0-100K€;_0;0_5;2022;250_500
+M;66EEED5F-F14E;z_High School;Private;Pickup;yes;z_Highly Rural/ Rural;complet;dev_integral;1939;oui;oui;;_0;_0;5_10;2022;250_500
+F;3763FE78-842A;PhD;Private;Van;yes;Highly Urban/ Urban;complet;dev_integral;1962;non;non;sup 100k€;200-400K€;_0;10_15;2022;250_500
+F;73DB20E5-8FB9;<High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_integral;1931;oui;oui;0-20k€;100-200K€;_0;0_5;2022;250_500
+F;02A9FBBA-A6AE;z_High School;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1950;non;non;60-80k€;200-400K€;_0;5_10;2022;250_500
+F;7A1A8900-C549;z_High School;Commercial;Pickup;no;z_Highly Rural/ Rural;complet;dev_express;1979;non;oui;0-20k€;0-100K€;6_9;0_5;2022;250_500
+F;1368D916-6347;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1968;non;oui;20-40k€;_0;3_6;0_5;2022;250_500
+M;B295021C-95B3;z_High School;Commercial;Minivan;no;Highly Urban/ Urban;complet;dev_express;2018;non;non;80-100k€;_0;0_3;0_5;2022;250_500
+F;CB5E6C82-1100;Masters;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1951;non;non;80-100k€;200-400K€;0_3;sup 15;2022;250_500
+F;B2DCCC37-18DB;Bachelors;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1962;non;non;20-40k€;_0;0_3;10_15;2022;250_500
+F;5340C219-79A0;z_High School;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1970;non;non;40-60k€;_0;0_3;0_5;2022;250_500
+F;51E87E2F-9136;z_High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_premium;1963;non;non;20-40k€;100-200K€;0_3;5_10;2022;250_500
+F;A36C8961-F592;Bachelors;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_vip;1973;non;non;60-80k€;200-400K€;0_3;5_10;2022;500_750
+M;9B56ABD1-D4EC;z_High School;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;1942;oui;oui;20-40k€;100-200K€;_0;0_5;2022;250_500
+M;A00EA603-79A6;Bachelors;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;1988;non;non;20-40k€;100-200K€;_0;0_5;2022;250_500
+M;1FD0D0D2-578A;Bachelors;Commercial;Van;yes;z_Highly Rural/ Rural;complet;dev_integral;1971;non;oui;20-40k€;100-200K€;_0;5_10;2022;250_500
+F;8FAB14B4-5914;Bachelors;Commercial;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1958;non;oui;60-80k€;200-400K€;3_6;5_10;2022;250_500
+F;33F11E4B-506E;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1976;non;oui;80-100k€;200-400K€;_0;sup 15;2022;250_500
+M;9297E720-4C58;Masters;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;2006;non;non;40-60k€;_0;_0;10_15;2022;250_500
+M;82E6F20E-21D6;Bachelors;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_integral;1973;non;non;40-60k€;100-200K€;_0;5_10;2022;250_500
+M;EA5E008D-E471;Masters;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1984;non;oui;sup 100k€;200-400K€;_0;5_10;2022;250_500
+F;B3E4EF27-07AA;z_High School;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;1993;oui;oui;0-20k€;_0;0_3;5_10;2022;250_500
+M;0CD59F9D-D1D3;Masters;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_express;1962;non;oui;sup 100k€;200-400K€;3_6;5_10;2022;250_500
+M;A983663F-2BA8;z_High School;Commercial;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1942;non;oui;40-60k€;100-200K€;_0;0_5;2022;250_500
+M;61763091-352D;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1988;non;non;60-80k€;200-400K€;6_9;0_5;2022;250_500
+M;657E2708-0940;z_High School;Commercial;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1949;non;non;20-40k€;100-200K€;0_3;0_5;2022;250_500
+M;60BFDF8C-DFE6;z_High School;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_integral;1968;non;non;sup 100k€;_0;0_3;5_10;2022;250_500
+M;A112B05D-1833;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;1968;non;non;sup 100k€;200-400K€;0_3;;2022;250_500
+F;5465AD31-FD6B;Masters;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_express;2000;non;non;60-80k€;;sup 9;10_15;2022;250_500
+F;19097DDB-E3DF;Bachelors;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_integral;2003;non;oui;sup 100k€;200-400K€;0_3;0_5;2022;250_500
+F;E322219E-014D;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;1942;non;non;0-20k€;0-100K€;_0;5_10;2022;250_500
+M;5B135FD3-C21F;z_High School;Private;Sports Car;no;z_Highly Rural/ Rural;complet;dev_integral;1988;non;non;0-20k€;100-200K€;_0;0_5;2022;250_500
+F;A8435B90-45DA;Bachelors;Private;Minivan;no;Highly Urban/ Urban;complet;dev_vip;1936;oui;oui;sup 100k€;200-400K€;3_6;5_10;2022;500_750
+M;D13308C9-0684;Masters;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1994;non;non;40-60k€;100-200K€;_0;10_15;2022;250_500
+M;0FE34182-D4D7;Bachelors;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1956;non;oui;80-100k€;200-400K€;0_3;0_5;2022;250_500
+F;A122ED20-98A4;PhD;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1941;non;non;sup 100k€;_0;6_9;sup 15;2022;250_500
+M;6B0561B1-2F77;Bachelors;Commercial;Panel Truck;no;z_Highly Rural/ Rural;complet;dev_integral;1943;non;oui;80-100k€;200-400K€;_0;0_5;2022;250_500
+F;17D33928-C326;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;1974;non;oui;60-80k€;;0_3;sup 15;2022;250_500
+F;61945A9A-3788;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1970;non;non;;100-200K€;_0;sup 15;2022;250_500
+M;10EF0C1E-21A8;Masters;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_integral;1993;non;oui;sup 100k€;_0;_0;sup 15;2022;250_500
+M;DB089A15-F3D9;Masters;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_express;2018;non;oui;20-40k€;100-200K€;_0;sup 15;2022;250_500
+F;1EFE8402-54AB;z_High School;Commercial;Pickup;yes;z_Highly Rural/ Rural;complet;dev_integral;1971;non;non;60-80k€;200-400K€;0_3;10_15;2022;250_500
+F;1BEF61AE-B9AD;Bachelors;Private;Van;no;Highly Urban/ Urban;complet;dev_express;1966;non;non;40-60k€;200-400K€;0_3;10_15;2022;250_500
+M;12BC643A-13F8;z_High School;Commercial;z_SUV;no;z_Highly Rural/ Rural;complet;dev_premium;1951;non;oui;20-40k€;100-200K€;_0;5_10;2022;250_500
+M;6E0FFC01-AFAA;Bachelors;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_express;2004;non;oui;40-60k€;_0;0_3;0_5;2022;250_500
+F;043052C8-6252;z_High School;Private;Minivan;no;z_Highly Rural/ Rural;complet;dev_premium;1969;non;oui;40-60k€;_0;_0;0_5;2022;500_750
+M;19C201DD-E7B9;<High School;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1998;non;oui;0-20k€;;0_3;0_5;2022;250_500
+M;EAAD5FC3-1C21;<High School;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1960;non;oui;;_0;0_3;;2022;250_500
+F;842AD6BD-62E0;<High School;Private;Minivan;yes;z_Highly Rural/ Rural;complet;dev_integral;1983;non;oui;20-40k€;100-200K€;3_6;5_10;2022;250_500
+F;AAA48E5B-7464;PhD;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1961;non;non;sup 100k€;200-400K€;_0;5_10;2022;250_500
+F;106AD950-28B2;z_High School;Private;Minivan;no;z_Highly Rural/ Rural;complet;dev_express;1954;non;non;20-40k€;_0;_0;5_10;2022;250_500
+M;953BC960-0F7F;Bachelors;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_premium;2014;non;oui;40-60k€;_0;_0;10_15;2022;250_500
+F;F0C3CE3C-2359;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1989;oui;oui;0-20k€;0-100K€;_0;5_10;2022;250_500
+M;8FE2AC4E-FFCF;Masters;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1963;non;non;;100-200K€;_0;;2022;250_500
+M;66E423AE-2E4A;<High School;Commercial;Panel Truck;no;z_Highly Rural/ Rural;complet;dev_integral;1938;non;non;40-60k€;;0_3;5_10;2022;250_500
+F;5AEF8E2D-328A;<High School;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1973;non;oui;0-20k€;_0;0_3;0_5;2022;250_500
+F;EB6D4AF3-90FF;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1972;non;non;20-40k€;_0;0_3;;2022;250_500
+M;64EF81FA-E2CF;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1978;non;oui;20-40k€;100-200K€;0_3;5_10;2022;250_500
+F;D98A813F-677D;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;1955;non;oui;20-40k€;100-200K€;_0;10_15;2022;250_500
+M;32020170-21A2;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;2002;non;oui;60-80k€;200-400K€;_0;sup 15;2022;250_500
+M;6E0BED9C-7905;z_High School;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1952;oui;oui;40-60k€;100-200K€;0_3;5_10;2022;250_500
+F;15A90786-F482;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1967;non;non;80-100k€;200-400K€;_0;;2022;250_500
+M;87C9847F-7128;PhD;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;2011;non;oui;sup 100k€;200-400K€;0_3;sup 15;2022;250_500
+M;864B373D-8951;z_High School;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_express;1945;non;non;40-60k€;100-200K€;0_3;5_10;2022;250_500
+M;98A52E46-8744;PhD;Commercial;Van;no;Highly Urban/ Urban;complet;dev_integral;1955;non;non;sup 100k€;_0;0_3;sup 15;2022;250_500
+M;33C7DFA1-CF4C;Masters;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_premium;1949;non;non;sup 100k€;sup 400K€;_0;10_15;2022;250_500
+M;13798373-E94F;z_High School;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;2012;non;oui;60-80k€;100-200K€;_0;10_15;2022;250_500
+F;D2B0CCFE-974E;z_High School;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1957;non;oui;20-40k€;100-200K€;0_3;0_5;2022;250_500
+M;BA066F84-61D0;PhD;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;2010;non;non;sup 100k€;_0;3_6;sup 15;2022;250_500
+F;95895978-89BA;Bachelors;Private;Pickup;no;Highly Urban/ Urban;complet;dev_integral;1933;non;non;;100-200K€;_0;10_15;2022;250_500
+M;B123F64E-CE29;<High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_express;1983;non;non;20-40k€;_0;_0;0_5;2022;250_500
+M;F4908CF5-B469;Masters;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;1950;non;oui;sup 100k€;_0;_0;sup 15;2022;250_500
+F;BAF1E875-5E51;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1981;oui;oui;sup 100k€;200-400K€;_0;10_15;2022;250_500
+F;B2E94CC2-A5DD;Masters;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1985;non;non;;200-400K€;0_3;10_15;2022;250_500
+F;2A81AEB5-7945;z_High School;Commercial;Minivan;no;Highly Urban/ Urban;complet;dev_express;1979;non;non;0-20k€;_0;0_3;10_15;2022;250_500
+M;7B35610B-621C;Bachelors;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_express;1975;non;non;sup 100k€;200-400K€;0_3;5_10;2022;250_500
+F;43548233-BF47;PhD;Private;Van;yes;Highly Urban/ Urban;complet;dev_express;1951;non;non;sup 100k€;200-400K€;_0;0_5;2022;250_500
+M;0D64D602-5511;z_High School;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_express;1945;non;non;20-40k€;100-200K€;0_3;5_10;2022;250_500
+F;731639E8-A572;z_High School;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_premium;1985;oui;oui;60-80k€;100-200K€;0_3;5_10;2022;250_500
+M;8B43EAF5-58BC;Bachelors;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_premium;1931;non;non;0-20k€;_0;_0;sup 15;2022;250_500
+M;352E74A7-0C67;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1945;non;non;0-20k€;100-200K€;0_3;5_10;2022;250_500
+M;10BE97E1-684B;Bachelors;Commercial;Minivan;no;z_Highly Rural/ Rural;complet;dev_integral;1951;oui;oui;80-100k€;_0;_0;5_10;2022;250_500
+F;82EE85BF-4BE4;z_High School;Commercial;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;2009;non;non;;200-400K€;6_9;0_5;2022;250_500
+M;132D6CB6-F099;Masters;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_integral;2019;non;non;sup 100k€;;_0;0_5;2022;250_500
+M;CAF38864-3240;<High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1934;non;oui;0-20k€;_0;6_9;0_5;2022;250_500
+M;E124B16A-73A8;PhD;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_express;1958;non;non;sup 100k€;_0;_0;sup 15;2022;250_500
+M;64D26E6A-4264;PhD;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_express;1964;non;non;sup 100k€;_0;3_6;sup 15;2022;250_500
+F;64CE14AA-F380;z_High School;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;2019;non;oui;40-60k€;_0;_0;5_10;2022;250_500
+F;6DDD614E-0BEE;z_High School;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;2002;non;oui;60-80k€;200-400K€;_0;5_10;2022;250_500
+M;B94A9D22-982A;z_High School;Private;Minivan;no;Highly Urban/ Urban;complet;dev_premium;2013;non;oui;60-80k€;200-400K€;0_3;5_10;2022;250_500
+M;D5B97540-8DD3;PhD;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_premium;1983;non;non;;200-400K€;0_3;10_15;2022;250_500
+F;28A3FB0F-4F94;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;1960;non;non;0-20k€;0-100K€;_0;0_5;2022;250_500
+M;C3741736-C13E;<High School;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_integral;1959;non;oui;20-40k€;100-200K€;0_3;0_5;2022;250_500
+M;5138DA33-109E;Bachelors;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;1973;non;non;sup 100k€;200-400K€;_0;10_15;2022;250_500
+F;8980702A-0883;Masters;Private;Pickup;no;Highly Urban/ Urban;complet;dev_premium;1942;non;non;80-100k€;200-400K€;_0;;2022;250_500
+F;6F3671C1-18B5;Bachelors;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_premium;2014;non;non;0-20k€;0-100K€;0_3;sup 15;2022;250_500
+M;CE07B9ED-74C5;Masters;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_integral;1946;non;non;80-100k€;_0;_0;sup 15;2022;250_500
+F;911CB76F-9786;Masters;Private;Pickup;no;Highly Urban/ Urban;complet;dev_express;1967;non;non;20-40k€;100-200K€;_0;;2022;250_500
+M;DAA7F60A-3581;<High School;Private;Pickup;no;Highly Urban/ Urban;complet;dev_integral;1972;non;non;0-20k€;_0;0_3;0_5;2022;250_500
+F;1B4D07E3-A574;<High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1985;non;oui;0-20k€;_0;6_9;0_5;2022;250_500
+M;561E7448-8AD1;z_High School;Private;Pickup;no;Highly Urban/ Urban;complet;dev_express;1950;non;non;0-20k€;100-200K€;3_6;0_5;2022;250_500
+F;85D8D973-7806;<High School;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_integral;1987;non;oui;;0-100K€;_0;0_5;2022;250_500
+M;3908C176-F5EE;z_High School;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_integral;1954;oui;oui;20-40k€;100-200K€;3_6;0_5;2022;250_500
+M;3AC8DAE2-839B;Masters;Private;Van;no;Highly Urban/ Urban;complet;dev_integral;2007;non;non;80-100k€;_0;sup 9;sup 15;2022;250_500
+M;E6459A98-B093;z_High School;Private;Minivan;no;z_Highly Rural/ Rural;complet;dev_integral;1957;non;non;0-20k€;100-200K€;0_3;0_5;2022;250_500
+M;CBCF21D3-8CA5;Bachelors;Commercial;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1940;non;non;80-100k€;;3_6;5_10;2022;250_500
+F;B44D42E5-5696;Masters;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;1934;non;non;80-100k€;;_0;10_15;2022;250_500
+M;DF8F1AB0-4C8A;Bachelors;Commercial;z_SUV;no;z_Highly Rural/ Rural;complet;dev_premium;1976;non;non;80-100k€;_0;0_3;5_10;2022;250_500
+M;4CC2CFED-D5BD;<High School;Commercial;Minivan;no;Highly Urban/ Urban;complet;dev_premium;1981;oui;oui;20-40k€;100-200K€;_0;0_5;2022;500_750
+F;34C7FDF5-18CA;z_High School;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1964;non;non;60-80k€;200-400K€;0_3;0_5;2022;250_500
+F;BE2FFFB0-7846;Masters;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_express;1960;non;non;sup 100k€;200-400K€;3_6;sup 15;2022;250_500
+F;0404111E-A25B;Bachelors;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_integral;1952;oui;oui;40-60k€;100-200K€;3_6;10_15;2022;250_500
+F;D16A0AAE-3371;z_High School;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1975;non;non;20-40k€;100-200K€;0_3;0_5;2022;250_500
+M;637826C1-61DA;Bachelors;Commercial;Panel Truck;yes;z_Highly Rural/ Rural;complet;dev_vip;2003;non;non;60-80k€;200-400K€;0_3;0_5;2022;sup 750
+F;CE0CC542-A191;Bachelors;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_integral;1931;non;non;;100-200K€;_0;sup 15;2022;250_500
+F;152D1A2F-F42D;PhD;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;2014;non;non;20-40k€;100-200K€;_0;10_15;2022;250_500
+F;BBBFA3C7-78A9;z_High School;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_integral;1950;non;non;40-60k€;100-200K€;3_6;;2022;250_500
+F;B9A6C872-0DBD;z_High School;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_express;1965;non;non;0-20k€;_0;_0;0_5;2022;250_500
+F;0803BBE8-DB49;Bachelors;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_express;1940;non;non;80-100k€;_0;0_3;10_15;2022;250_500
+F;708E76CD-22E8;z_High School;Private;Van;yes;Highly Urban/ Urban;complet;dev_integral;1964;non;oui;40-60k€;200-400K€;_0;10_15;2022;250_500
+M;DE90A296-27AE;z_High School;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;1944;non;oui;0-20k€;;0_3;5_10;2022;250_500
+F;9EFBD8D8-4BA3;Bachelors;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1963;non;oui;0-20k€;0-100K€;_0;5_10;2022;250_500
+F;C8D2E54F-CC07;z_High School;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_premium;1994;non;non;0-20k€;_0;_0;0_5;2022;250_500
+F;B91D152C-C0A8;PhD;Private;Pickup;no;Highly Urban/ Urban;complet;dev_integral;1951;non;non;;200-400K€;_0;;2022;250_500
+F;4C4CD89C-2932;Masters;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_integral;1973;non;non;20-40k€;100-200K€;_0;sup 15;2022;250_500
+F;BEC91916-47C1;Bachelors;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1936;non;oui;40-60k€;100-200K€;_0;5_10;2022;250_500
+M;A50A419A-5945;PhD;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1950;non;non;0-20k€;100-200K€;0_3;10_15;2022;250_500
+F;FA263482-A708;z_High School;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_integral;1943;non;non;sup 100k€;_0;0_3;0_5;2022;250_500
+M;33A2F4AF-1A9B;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1975;non;oui;80-100k€;200-400K€;3_6;5_10;2022;250_500
+M;8C347349-A400;<High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1959;non;oui;0-20k€;100-200K€;0_3;5_10;2022;250_500
+F;253B2A45-BCF2;<High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1954;oui;oui;0-20k€;100-200K€;0_3;0_5;2022;250_500
+F;CC747943-CD84;Masters;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;1940;non;oui;60-80k€;_0;_0;10_15;2022;250_500
+M;DB6C3DE4-95AC;<High School;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_express;1995;non;non;;200-400K€;6_9;0_5;2022;250_500
+F;D61997A1-74EE;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1932;non;oui;0-20k€;0-100K€;0_3;5_10;2022;250_500
+F;BAB7F962-1831;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;1971;non;non;sup 100k€;200-400K€;_0;sup 15;2022;250_500
+M;E9F7A3E1-9973;Bachelors;Commercial;Van;no;Highly Urban/ Urban;complet;dev_express;1985;non;non;60-80k€;_0;_0;0_5;2022;250_500
+F;04C7E3E8-ACCC;z_High School;Commercial;Minivan;no;Highly Urban/ Urban;complet;dev_express;1999;non;oui;40-60k€;100-200K€;_0;5_10;2022;250_500
+F;D3488C6E-2165;PhD;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_integral;1987;non;non;80-100k€;200-400K€;_0;;2022;250_500
+F;1B07B8FC-8F98;z_High School;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_integral;1971;non;non;60-80k€;_0;3_6;0_5;2022;250_500
+F;7EF99FD1-1B64;Bachelors;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_premium;1987;non;oui;0-20k€;100-200K€;0_3;5_10;2022;250_500
+M;D69976A9-8F26;Masters;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_integral;1996;non;non;sup 100k€;sup 400K€;_0;0_5;2022;250_500
+M;B89D1CA5-CDB7;Bachelors;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1987;oui;oui;80-100k€;200-400K€;0_3;0_5;2022;250_500
+M;B49C3715-043B;Bachelors;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_premium;1965;non;non;0-20k€;100-200K€;_0;5_10;2022;250_500
+M;A77BB03A-B3C1;Bachelors;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;1976;non;non;60-80k€;200-400K€;0_3;0_5;2022;250_500
+M;34761D96-5F16;Bachelors;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_express;1990;non;non;80-100k€;200-400K€;_0;10_15;2022;250_500
+F;F4CA9A29-33FC;Bachelors;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1965;non;non;40-60k€;100-200K€;0_3;10_15;2022;250_500
+M;B1779EC2-4EEA;<High School;Commercial;Pickup;no;z_Highly Rural/ Rural;complet;dev_integral;1949;oui;oui;0-20k€;100-200K€;_0;0_5;2022;250_500
+M;65BD2D6F-6019;Bachelors;Commercial;Pickup;yes;z_Highly Rural/ Rural;complet;dev_express;1937;non;non;60-80k€;200-400K€;0_3;10_15;2022;250_500
+F;D9B81F0C-01D4;Masters;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_express;2022;oui;oui;sup 100k€;_0;_0;;2022;250_500
+F;00A39B94-9B03;Masters;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_premium;2012;non;non;80-100k€;_0;0_3;;2022;250_500
+F;12672640-1359;<High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;2004;non;non;20-40k€;100-200K€;0_3;5_10;2022;250_500
+F;821A981E-1305;<High School;Commercial;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1966;oui;oui;0-20k€;100-200K€;3_6;0_5;2022;250_500
+F;331CDEE0-5E27;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1968;non;oui;0-20k€;_0;6_9;5_10;2022;250_500
+M;51CB5B27-857A;<High School;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;1995;non;non;80-100k€;_0;0_3;5_10;2022;250_500
+M;3E61CCFF-CDA5;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;2000;non;oui;20-40k€;100-200K€;6_9;0_5;2022;250_500
+F;8205C79F-0D9C;Masters;Private;Pickup;no;Highly Urban/ Urban;complet;dev_integral;2017;non;oui;40-60k€;200-400K€;0_3;5_10;2022;250_500
+M;53AE6982-37D9;<High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1966;non;non;0-20k€;_0;0_3;0_5;2022;250_500
+F;5587404F-64A9;<High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;2002;non;oui;0-20k€;0-100K€;6_9;0_5;2022;250_500
+F;54CEAF90-4D3B;<High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1947;non;non;0-20k€;_0;0_3;5_10;2022;250_500
+M;8A7257B0-8963;Masters;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_integral;1995;non;non;sup 100k€;_0;_0;sup 15;2022;250_500
+M;5AD6386F-4FC7;PhD;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1994;non;non;sup 100k€;200-400K€;_0;10_15;2022;250_500
+F;3781E712-F44E;z_High School;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_express;1955;non;non;40-60k€;100-200K€;0_3;5_10;2022;250_500
+F;FC1BD6C6-C59C;<High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_integral;1952;non;non;20-40k€;_0;_0;0_5;2022;250_500
+F;7636151C-8566;z_High School;Private;Van;yes;Highly Urban/ Urban;complet;dev_express;1956;non;oui;0-20k€;;3_6;0_5;2022;250_500
+F;3CAC03CD-08ED;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1999;non;oui;60-80k€;_0;_0;;2022;250_500
+F;AEA2CE19-AD4F;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_premium;1971;oui;oui;60-80k€;200-400K€;0_3;5_10;2022;250_500
+F;D24036DF-17EC;Masters;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1952;non;non;sup 100k€;200-400K€;0_3;5_10;2022;250_500
+F;1A0B1AC9-21F8;<High School;Private;Minivan;no;z_Highly Rural/ Rural;complet;dev_integral;2019;non;non;0-20k€;100-200K€;_0;0_5;2022;250_500
+F;83DF853B-2815;<High School;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;2001;oui;oui;20-40k€;100-200K€;0_3;0_5;2022;250_500
+M;841E7B65-D14C;z_High School;Commercial;z_SUV;no;z_Highly Rural/ Rural;complet;dev_premium;1963;non;non;20-40k€;100-200K€;_0;0_5;2022;250_500
+M;BCA963C1-7292;z_High School;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;2015;non;oui;20-40k€;100-200K€;3_6;5_10;2022;250_500
+M;E7B1C33B-72CA;z_High School;Commercial;Minivan;no;Highly Urban/ Urban;complet;dev_express;1995;non;oui;20-40k€;_0;_0;5_10;2022;250_500
+F;C6C357FF-01CD;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1965;oui;oui;60-80k€;200-400K€;0_3;5_10;2022;250_500
+M;20EA6A53-1E11;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1949;non;oui;60-80k€;100-200K€;0_3;5_10;2022;250_500
+F;E8419551-5224;z_High School;Commercial;Pickup;yes;z_Highly Rural/ Rural;complet;dev_integral;1948;non;non;0-20k€;_0;0_3;10_15;2022;250_500
+M;68C8FD5D-D7BF;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1973;non;non;20-40k€;100-200K€;3_6;0_5;2022;250_500
+F;7F89B0B0-009B;Masters;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_premium;2015;non;non;sup 100k€;200-400K€;3_6;5_10;2022;500_750
+F;32430100-E378;<High School;Private;Minivan;no;z_Highly Rural/ Rural;complet;dev_premium;2002;non;non;20-40k€;100-200K€;0_3;;2022;250_500
+F;3BE3A19A-8DA5;Bachelors;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_integral;1951;non;non;80-100k€;200-400K€;0_3;10_15;2022;250_500
+M;3C1A6AA1-33B9;<High School;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_integral;2010;oui;oui;0-20k€;100-200K€;0_3;0_5;2022;250_500
+M;411A3C20-1B7C;PhD;Private;Pickup;no;Highly Urban/ Urban;complet;dev_integral;1974;non;non;sup 100k€;_0;_0;sup 15;2022;250_500
+M;70A58691-FA91;PhD;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_integral;1931;non;non;0-20k€;;0_3;5_10;2022;250_500
+M;EE6CC26D-C85A;Masters;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_express;2004;non;non;60-80k€;_0;_0;;2022;250_500
+F;2B6E9C17-4189;PhD;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;1963;non;non;sup 100k€;_0;_0;10_15;2022;250_500
+F;F59E9D4B-BDD2;z_High School;Private;Pickup;no;z_Highly Rural/ Rural;complet;dev_premium;1948;non;non;20-40k€;100-200K€;_0;5_10;2022;500_750
+F;A06775FD-2D5A;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;2017;non;non;sup 100k€;sup 400K€;_0;5_10;2022;250_500
+F;E40C4E45-542B;z_High School;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_express;1965;non;oui;20-40k€;100-200K€;_0;0_5;2022;250_500
+F;34E10E4C-8025;Bachelors;Commercial;Van;no;Highly Urban/ Urban;complet;dev_express;1937;non;non;sup 100k€;_0;0_3;10_15;2022;250_500
+F;361DF327-E318;<High School;Private;Pickup;yes;z_Highly Rural/ Rural;complet;dev_integral;1970;non;non;40-60k€;_0;0_3;0_5;2022;250_500
+M;F68E273C-DA38;z_High School;Commercial;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1971;non;non;0-20k€;_0;_0;5_10;2022;250_500
+F;240712A5-4ADB;PhD;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_premium;1978;non;non;sup 100k€;_0;0_3;5_10;2022;250_500
+F;404DFD20-9FCB;PhD;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;1971;non;non;sup 100k€;_0;_0;10_15;2022;250_500
+F;8AA33F0A-5B10;<High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1964;non;non;60-80k€;200-400K€;_0;0_5;2022;250_500
+M;821F0028-9C0A;z_High School;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1961;non;oui;0-20k€;_0;0_3;0_5;2022;250_500
+F;3E05D201-9C6C;Bachelors;Commercial;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;2005;non;non;0-20k€;;0_3;sup 15;2022;250_500
+M;07D276B0-3AE5;z_High School;Commercial;Pickup;yes;z_Highly Rural/ Rural;complet;dev_premium;1966;non;non;20-40k€;100-200K€;_0;5_10;2022;250_500
+M;1319168A-E276;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;1967;non;non;60-80k€;200-400K€;_0;sup 15;2022;250_500
+M;2A51AB45-5A72;Bachelors;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1968;non;oui;sup 100k€;200-400K€;_0;5_10;2022;250_500
+F;7E7A4FA9-024E;Bachelors;Commercial;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1962;non;oui;60-80k€;200-400K€;6_9;0_5;2022;250_500
+F;388C32C5-D6C5;Masters;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_express;1989;non;non;sup 100k€;200-400K€;_0;10_15;2022;250_500
+M;430A6605-C2E6;PhD;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1994;non;non;;_0;_0;sup 15;2022;250_500
+F;9E79586C-2932;Bachelors;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;1940;non;non;sup 100k€;200-400K€;3_6;5_10;2022;500_750
+M;E935540E-0673;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1954;non;non;40-60k€;_0;_0;;2022;250_500
+F;C7117708-CCBA;<High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1955;non;non;20-40k€;200-400K€;0_3;5_10;2022;250_500
+M;E69E1B15-EE56;<High School;Commercial;Minivan;no;z_Highly Rural/ Rural;complet;dev_integral;2019;oui;oui;0-20k€;_0;_0;0_5;2022;250_500
+M;5CFAD9ED-496E;PhD;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;2007;non;non;sup 100k€;200-400K€;0_3;;2022;250_500
+F;03F3BC0A-90F8;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1943;non;non;20-40k€;;3_6;5_10;2022;250_500
+F;9AC50727-2825;<High School;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_premium;1964;non;non;20-40k€;100-200K€;_0;0_5;2022;250_500
+M;86822B1A-0C3C;z_High School;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_express;1991;non;non;;200-400K€;_0;0_5;2022;250_500
+F;E52E3D55-4441;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1963;oui;oui;40-60k€;100-200K€;6_9;5_10;2022;250_500
+M;7AE6BBEB-F561;Bachelors;Commercial;Pickup;no;z_Highly Rural/ Rural;complet;dev_integral;1939;non;oui;80-100k€;200-400K€;_0;0_5;2022;250_500
+M;40FAB582-5649;Bachelors;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;1941;non;oui;40-60k€;100-200K€;_0;;2022;250_500
+F;566590F1-ECE0;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;1946;non;non;20-40k€;100-200K€;_0;5_10;2022;250_500
+M;C1A37F64-8DF7;z_High School;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_express;1969;non;oui;20-40k€;100-200K€;3_6;0_5;2022;250_500
+M;09045F31-52BE;z_High School;Commercial;Pickup;yes;z_Highly Rural/ Rural;complet;dev_express;1971;oui;oui;40-60k€;_0;0_3;5_10;2022;250_500
+M;7B81C759-C99C;z_High School;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_express;1934;non;non;;200-400K€;0_3;0_5;2022;250_500
+M;A2AF6A4E-DEEE;Bachelors;Commercial;Pickup;yes;z_Highly Rural/ Rural;complet;dev_premium;1952;non;oui;40-60k€;100-200K€;0_3;10_15;2022;250_500
+M;690EC0F8-2E70;Bachelors;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_express;1977;non;oui;;200-400K€;0_3;5_10;2022;250_500
+F;C35D2C34-1974;z_High School;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1965;non;non;40-60k€;200-400K€;0_3;0_5;2022;250_500
+F;42DE3934-82A2;Bachelors;Private;Minivan;yes;z_Highly Rural/ Rural;complet;dev_express;1957;non;oui;;200-400K€;0_3;;2022;250_500
+F;CD17C97E-8D3C;z_High School;Private;Sports Car;no;z_Highly Rural/ Rural;complet;dev_integral;1987;non;oui;0-20k€;_0;0_3;5_10;2022;250_500
+F;E700C4DE-8361;<High School;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_express;1974;non;non;20-40k€;_0;0_3;0_5;2022;250_500
+M;82C12DB9-F668;Masters;Private;Pickup;no;Highly Urban/ Urban;complet;dev_integral;2018;non;non;sup 100k€;sup 400K€;0_3;10_15;2022;250_500
+F;4E7A4984-01CA;Masters;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;2019;oui;oui;80-100k€;_0;6_9;sup 15;2022;250_500
+M;43359B2D-1353;Bachelors;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;1935;non;non;60-80k€;_0;0_3;10_15;2022;250_500
+M;B874BAEC-EECD;Masters;Private;Minivan;yes;z_Highly Rural/ Rural;complet;dev_integral;1937;non;non;20-40k€;100-200K€;_0;sup 15;2022;250_500
+F;E1805FE0-0E22;z_High School;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1967;non;non;60-80k€;200-400K€;_0;0_5;2022;250_500
+F;77BD6E26-7871;Masters;Commercial;Panel Truck;yes;z_Highly Rural/ Rural;complet;dev_integral;1940;oui;oui;60-80k€;200-400K€;_0;10_15;2022;250_500
+M;B06DEDD4-C06B;Bachelors;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1965;non;non;20-40k€;100-200K€;0_3;5_10;2022;250_500
+M;7D753789-F144;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1996;non;non;20-40k€;100-200K€;0_3;5_10;2022;250_500
+F;737EF67A-1121;PhD;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1955;non;non;60-80k€;200-400K€;_0;5_10;2022;250_500
+M;2D0294CA-755C;PhD;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1951;non;non;sup 100k€;sup 400K€;0_3;10_15;2022;250_500
+F;518805FC-FAEB;z_High School;Private;Pickup;yes;z_Highly Rural/ Rural;complet;dev_premium;1994;non;oui;40-60k€;100-200K€;0_3;10_15;2022;250_500
+M;94AE6B24-51AA;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1986;non;non;60-80k€;200-400K€;_0;sup 15;2022;250_500
+M;EE1434B9-53BD;PhD;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1952;non;non;;sup 400K€;_0;sup 15;2022;250_500
+M;F21BD38F-CF8B;z_High School;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1938;non;non;20-40k€;100-200K€;3_6;5_10;2022;250_500
+M;6A1A4A4A-74CC;z_High School;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1978;non;non;40-60k€;_0;_0;0_5;2022;250_500
+M;B03FFAC5-67C9;Bachelors;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_express;1932;oui;oui;40-60k€;100-200K€;0_3;5_10;2022;250_500
+M;AB3BC39B-6932;z_High School;Private;Minivan;no;z_Highly Rural/ Rural;complet;dev_express;2008;non;non;;_0;_0;0_5;2022;250_500
+M;1991E5CE-890F;Bachelors;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;2019;non;oui;60-80k€;200-400K€;_0;;2022;250_500
+F;2D64D1C5-6519;Masters;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_integral;1958;non;non;0-20k€;100-200K€;_0;;2022;250_500
+M;FDF15FC3-BE72;<High School;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_integral;1934;non;non;0-20k€;;3_6;0_5;2022;250_500
+M;A0C02273-B033;Masters;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;2022;non;non;40-60k€;_0;_0;sup 15;2022;250_500
+M;C7F4405C-AEF0;z_High School;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;2006;non;non;0-20k€;_0;_0;5_10;2022;250_500
+M;6BCA0E6B-B9ED;Masters;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_integral;1989;non;non;40-60k€;_0;0_3;sup 15;2022;250_500
+M;D028FA67-7FC9;Bachelors;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;1972;non;oui;20-40k€;_0;0_3;5_10;2022;250_500
+F;CA758D7E-1D2E;<High School;Private;Van;no;Highly Urban/ Urban;complet;dev_integral;2000;non;oui;0-20k€;100-200K€;_0;0_5;2022;250_500
+M;6281483B-EB61;PhD;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1998;oui;oui;80-100k€;200-400K€;3_6;sup 15;2022;250_500
+F;D9F8E75E-B275;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1967;non;non;0-20k€;0-100K€;_0;5_10;2022;250_500
+M;B1F6133D-6B28;<High School;Private;Pickup;no;Highly Urban/ Urban;complet;dev_integral;2010;oui;oui;0-20k€;100-200K€;0_3;5_10;2022;250_500
+F;EDAF7FEF-C753;PhD;Private;Pickup;no;Highly Urban/ Urban;complet;dev_integral;1938;non;non;sup 100k€;sup 400K€;_0;10_15;2022;250_500
+M;7DAC4F2F-BBA2;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1993;non;non;60-80k€;200-400K€;3_6;10_15;2022;250_500
+F;E001A654-9941;PhD;Private;Minivan;no;Highly Urban/ Urban;complet;dev_premium;1962;non;non;sup 100k€;sup 400K€;_0;10_15;2022;250_500
+F;1D16A115-A23C;Masters;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_premium;2002;non;oui;80-100k€;200-400K€;_0;sup 15;2022;500_750
+F;DA8844F4-9543;Bachelors;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_express;1957;non;non;0-20k€;_0;0_3;5_10;2022;250_500
+F;A7A166C9-2D7C;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1951;non;non;60-80k€;_0;3_6;10_15;2022;250_500
+F;4E4ECA58-674D;Bachelors;Private;Pickup;yes;z_Highly Rural/ Rural;complet;dev_express;2016;non;non;0-20k€;100-200K€;_0;sup 15;2022;250_500
+M;DEDE85E9-E97B;Bachelors;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_integral;1939;non;oui;60-80k€;200-400K€;3_6;5_10;2022;250_500
+F;95BB2261-C2B1;Masters;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_integral;1960;non;non;60-80k€;_0;_0;10_15;2022;250_500
+M;9D362678-ACCA;Bachelors;Commercial;Minivan;no;Highly Urban/ Urban;complet;dev_express;2007;non;non;0-20k€;_0;0_3;5_10;2022;250_500
+M;C99005EB-9349;<High School;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1967;non;non;0-20k€;100-200K€;0_3;0_5;2022;250_500
+M;40537C99-E09B;<High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1978;non;non;80-100k€;200-400K€;6_9;0_5;2022;250_500
+M;83ED4303-D33C;<High School;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_premium;1969;non;oui;20-40k€;_0;0_3;0_5;2022;250_500
+M;F5F5FFB1-3BF8;Bachelors;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_express;1974;non;oui;0-20k€;0-100K€;_0;5_10;2022;250_500
+M;702F89CB-57CD;Bachelors;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;1969;non;oui;60-80k€;200-400K€;0_3;10_15;2022;250_500
+M;C729AC50-084A;z_High School;Private;Minivan;yes;z_Highly Rural/ Rural;complet;dev_integral;1935;non;non;0-20k€;_0;_0;5_10;2022;250_500
+F;85903AA9-F7FC;Bachelors;Commercial;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1986;non;non;80-100k€;200-400K€;_0;;2022;250_500
+M;AC930D39-5122;z_High School;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1936;non;non;0-20k€;0-100K€;0_3;0_5;2022;250_500
+M;20F65040-845B;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;1932;oui;oui;60-80k€;200-400K€;0_3;0_5;2022;250_500
+M;E3043B0A-FF60;z_High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_premium;1936;non;oui;;0-100K€;_0;5_10;2022;250_500
+M;F94FF433-BA83;<High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1961;non;non;0-20k€;_0;3_6;0_5;2022;250_500
+M;9431D6F0-1350;z_High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_express;1987;oui;oui;;0-100K€;_0;0_5;2022;250_500
+F;C20933EB-859E;<High School;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_express;1945;non;non;20-40k€;100-200K€;_0;0_5;2022;250_500
+F;B7FA1D9D-766B;Bachelors;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_integral;1974;non;non;sup 100k€;200-400K€;3_6;5_10;2022;250_500
+M;E8AC39C5-BD09;Masters;Private;Van;yes;Highly Urban/ Urban;complet;dev_express;2018;non;non;sup 100k€;_0;3_6;;2022;250_500
+M;8A4968AF-194C;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;2020;non;oui;80-100k€;200-400K€;_0;10_15;2022;250_500
+F;5617D06F-72F9;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1941;non;non;40-60k€;_0;_0;5_10;2022;250_500
+M;AA7DE92F-B720;Masters;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;1938;non;non;40-60k€;100-200K€;0_3;sup 15;2022;250_500
+M;82F9BE18-7C62;<High School;Private;Minivan;yes;z_Highly Rural/ Rural;complet;dev_integral;1982;non;non;0-20k€;_0;0_3;5_10;2022;250_500
+M;F3A345C6-CF0A;PhD;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1935;non;non;sup 100k€;sup 400K€;0_3;10_15;2022;250_500
+M;01EE8BD9-2402;Masters;Private;Sports Car;no;z_Highly Rural/ Rural;complet;dev_premium;1960;non;non;0-20k€;;0_3;sup 15;2022;250_500
+F;F49B7E71-33E9;Bachelors;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_integral;1993;non;oui;80-100k€;_0;6_9;5_10;2022;250_500
+M;1B6CFEA6-7386;<High School;Commercial;Pickup;yes;z_Highly Rural/ Rural;complet;dev_premium;1966;oui;oui;;100-200K€;0_3;0_5;2022;250_500
+M;50E82DB3-30D1;Bachelors;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1965;oui;oui;60-80k€;200-400K€;0_3;10_15;2022;250_500
+F;CF9CB422-409F;Bachelors;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1963;oui;oui;0-20k€;0-100K€;_0;10_15;2022;250_500
+M;63000F0D-23A0;PhD;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_express;1959;non;non;sup 100k€;sup 400K€;_0;5_10;2022;250_500
+F;22222B7B-8286;Bachelors;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;2013;non;non;60-80k€;200-400K€;0_3;0_5;2022;250_500
+M;48063032-D357;Bachelors;Private;Sports Car;no;z_Highly Rural/ Rural;complet;dev_premium;1992;non;non;;100-200K€;_0;5_10;2022;250_500
+F;5DD1086C-0C29;Masters;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1966;non;oui;60-80k€;200-400K€;0_3;10_15;2022;250_500
+M;F7974DC9-DC24;Masters;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_premium;1970;non;non;60-80k€;200-400K€;_0;10_15;2022;250_500
+M;70652440-A2B8;z_High School;Commercial;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1954;non;non;60-80k€;_0;0_3;5_10;2022;250_500
+F;219C9191-0227;z_High School;Commercial;z_SUV;no;z_Highly Rural/ Rural;complet;dev_express;2019;non;oui;20-40k€;_0;_0;5_10;2022;250_500
+M;BA8F140D-0148;PhD;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1959;non;non;80-100k€;200-400K€;_0;5_10;2022;250_500
+M;B14C3AD9-25BB;Masters;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;2000;non;oui;sup 100k€;_0;_0;sup 15;2022;250_500
+F;7CB38CAF-3333;PhD;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_premium;1987;non;non;80-100k€;200-400K€;_0;10_15;2022;250_500
+M;5FBF13D6-6378;z_High School;Commercial;Minivan;no;Highly Urban/ Urban;complet;dev_premium;2017;non;non;20-40k€;100-200K€;_0;5_10;2022;250_500
+M;96308A1B-0832;PhD;Private;Van;yes;Highly Urban/ Urban;complet;dev_integral;2008;non;non;sup 100k€;sup 400K€;_0;sup 15;2022;250_500
+F;9FDAB11E-2466;Masters;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;1951;non;non;sup 100k€;_0;3_6;sup 15;2022;250_500
+F;6E55A200-EAE4;Masters;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_integral;2010;non;non;80-100k€;_0;0_3;10_15;2022;250_500
+M;55B5E866-EDA1;Masters;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1968;oui;oui;20-40k€;_0;_0;10_15;2022;250_500
+F;7F9D1E3C-57C0;Bachelors;Commercial;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;2017;non;non;40-60k€;;0_3;;2022;250_500
+F;20E5DFF4-C3FF;z_High School;Private;Minivan;yes;z_Highly Rural/ Rural;complet;dev_express;1994;non;non;80-100k€;_0;0_3;;2022;250_500
+M;0461E049-9868;Bachelors;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1954;non;oui;;200-400K€;0_3;0_5;2022;250_500
+F;39240510-35E8;Masters;Commercial;Panel Truck;yes;z_Highly Rural/ Rural;complet;dev_express;2005;non;non;sup 100k€;_0;_0;sup 15;2022;250_500
+M;01B888E5-3696;PhD;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;2005;non;non;80-100k€;_0;0_3;10_15;2022;250_500
+M;F797AB88-BFC8;Bachelors;Private;Pickup;no;Highly Urban/ Urban;complet;dev_integral;2003;non;non;sup 100k€;200-400K€;_0;5_10;2022;250_500
+M;150D37C2-EEE1;Bachelors;Commercial;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;2004;non;non;40-60k€;100-200K€;0_3;10_15;2022;250_500
+M;D2EC8B28-9F94;Masters;Private;Van;no;Highly Urban/ Urban;complet;dev_integral;2005;non;non;40-60k€;100-200K€;_0;sup 15;2022;250_500
+M;E6C962E3-3095;z_High School;Private;Pickup;no;z_Highly Rural/ Rural;complet;dev_premium;2008;non;non;20-40k€;100-200K€;0_3;0_5;2022;500_750
+F;B36CBB88-5F7E;z_High School;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;1960;non;non;sup 100k€;200-400K€;0_3;10_15;2022;250_500
+M;415E5E52-E159;PhD;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;2012;non;non;sup 100k€;sup 400K€;_0;10_15;2022;250_500
+M;A70A981B-EFFE;Bachelors;Commercial;Minivan;yes;Highly Urban/ Urban;complet;dev_premium;1985;non;non;80-100k€;200-400K€;_0;5_10;2022;250_500
+M;F2566701-09AE;<High School;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1977;non;non;40-60k€;200-400K€;3_6;0_5;2022;250_500
+M;F0DCAD90-7DF3;Masters;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_integral;2004;non;non;40-60k€;;_0;5_10;2022;250_500
+M;5B224C11-93F2;Masters;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;2020;non;non;sup 100k€;200-400K€;0_3;10_15;2022;250_500
+F;45DD8487-ABAD;Bachelors;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1931;non;non;40-60k€;200-400K€;0_3;5_10;2022;250_500
+F;0D25AF3D-58A7;Bachelors;Commercial;Van;no;Highly Urban/ Urban;complet;dev_express;2007;non;oui;80-100k€;200-400K€;0_3;5_10;2022;250_500
+F;9A03C649-FADE;Masters;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_integral;2003;oui;oui;60-80k€;;3_6;5_10;2022;250_500
+F;15D12099-1A9C;Bachelors;Commercial;Panel Truck;no;z_Highly Rural/ Rural;complet;dev_integral;1997;non;non;80-100k€;200-400K€;_0;;2022;250_500
+F;D6E2A28E-B5C0;<High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_integral;1957;non;non;20-40k€;_0;_0;0_5;2022;250_500
+F;32287597-84E0;z_High School;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_express;1950;non;oui;60-80k€;100-200K€;0_3;0_5;2022;250_500
+F;C942FC8C-BD46;z_High School;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_premium;1940;non;non;20-40k€;100-200K€;0_3;0_5;2022;250_500
+M;3777939A-92AA;<High School;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_premium;1956;oui;oui;0-20k€;;3_6;0_5;2022;250_500
+F;18FA6364-9496;<High School;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;2008;non;non;0-20k€;0-100K€;_0;5_10;2022;250_500
+F;1F0B553E-A0AB;z_High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_integral;1993;non;non;20-40k€;100-200K€;_0;0_5;2022;250_500
+M;F28B37B2-8EF1;<High School;Private;Minivan;yes;z_Highly Rural/ Rural;complet;dev_integral;1967;oui;oui;0-20k€;0-100K€;0_3;5_10;2022;250_500
+F;795EA554-ED17;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_premium;1976;non;non;sup 100k€;_0;3_6;sup 15;2022;250_500
+F;1928862F-BD38;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;2004;non;non;60-80k€;200-400K€;_0;0_5;2022;250_500
+M;D26F775E-1125;PhD;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;1951;non;oui;sup 100k€;200-400K€;_0;sup 15;2022;250_500
+M;85196640-FB18;Bachelors;Commercial;Minivan;no;z_Highly Rural/ Rural;complet;dev_integral;1966;non;non;80-100k€;200-400K€;0_3;5_10;2022;250_500
+M;BCD2C088-0183;Masters;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_integral;1996;non;non;sup 100k€;sup 400K€;_0;sup 15;2022;250_500
+F;018049E4-0B4A;PhD;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1994;non;oui;80-100k€;200-400K€;_0;;2022;250_500
+M;A53059C2-5614;z_High School;Commercial;z_SUV;no;z_Highly Rural/ Rural;complet;dev_premium;1960;non;non;20-40k€;_0;0_3;5_10;2022;250_500
+F;1E9C2FF4-B4A6;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1964;non;non;40-60k€;100-200K€;_0;0_5;2022;250_500
+M;2664CAB6-7002;z_High School;Commercial;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1956;non;oui;40-60k€;100-200K€;3_6;0_5;2022;250_500
+F;FA4ACB38-C400;Masters;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_vip;1982;oui;oui;sup 100k€;sup 400K€;_0;sup 15;2022;sup 750
+M;BAE6ABBC-19C3;z_High School;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1968;non;oui;40-60k€;200-400K€;_0;0_5;2022;250_500
+F;140A89B6-0628;Bachelors;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_integral;1947;non;non;20-40k€;100-200K€;_0;0_5;2022;250_500
+M;A0963758-0E2D;<High School;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_integral;1969;oui;oui;20-40k€;100-200K€;0_3;0_5;2022;250_500
+F;1901CE71-3074;z_High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_integral;1953;oui;oui;;100-200K€;0_3;5_10;2022;250_500
+F;4B0ECCE9-B87B;PhD;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1951;non;non;sup 100k€;_0;0_3;10_15;2022;250_500
+F;B3DA7556-B8DD;<High School;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_premium;1945;non;non;20-40k€;;0_3;0_5;2022;250_500
+F;DAF0A101-8427;Bachelors;Commercial;Pickup;yes;z_Highly Rural/ Rural;complet;dev_integral;1997;non;non;20-40k€;100-200K€;3_6;10_15;2022;250_500
+M;2155225D-3F92;Masters;Private;Van;no;z_Highly Rural/ Rural;complet;dev_vip;1949;non;non;0-20k€;0-100K€;0_3;sup 15;2022;sup 750
+M;5E9EC4FE-2B10;Bachelors;Private;Minivan;no;Highly Urban/ Urban;complet;dev_premium;1971;non;oui;60-80k€;_0;3_6;sup 15;2022;500_750
+M;A44C0BF6-F386;z_High School;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1979;non;non;20-40k€;100-200K€;_0;5_10;2022;250_500
+M;BB1E5FF5-D881;Masters;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_integral;1980;oui;oui;sup 100k€;200-400K€;3_6;sup 15;2022;250_500
+M;CE9078EF-9F79;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;1947;oui;oui;0-20k€;0-100K€;_0;0_5;2022;500_750
+M;F1796391-B719;Bachelors;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;2017;non;non;60-80k€;_0;_0;10_15;2022;250_500
+F;FF6A109A-D901;z_High School;Commercial;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1972;non;non;40-60k€;_0;3_6;10_15;2022;250_500
+F;0DF2109C-ABEB;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;2014;non;non;20-40k€;100-200K€;0_3;0_5;2022;250_500
+M;28F2A692-D56E;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;2001;oui;oui;sup 100k€;200-400K€;3_6;10_15;2022;250_500
+F;CD7DFF8C-7FC8;<High School;Commercial;z_SUV;no;z_Highly Rural/ Rural;complet;dev_express;2003;non;oui;0-20k€;_0;0_3;5_10;2022;250_500
+M;67EE2FC6-1AF0;<High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_integral;1986;non;oui;0-20k€;_0;0_3;0_5;2022;250_500
+M;40EC60FB-5A0B;<High School;Private;Pickup;no;z_Highly Rural/ Rural;complet;dev_express;1956;non;oui;60-80k€;200-400K€;0_3;0_5;2022;250_500
+F;60CF099C-9522;z_High School;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_integral;1979;non;non;40-60k€;100-200K€;0_3;5_10;2022;250_500
+M;063843D7-219F;z_High School;Commercial;Minivan;yes;z_Highly Rural/ Rural;complet;dev_express;1943;non;non;20-40k€;_0;_0;0_5;2022;250_500
+M;67270D92-0D4E;Masters;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_integral;1938;non;oui;80-100k€;200-400K€;3_6;sup 15;2022;250_500
+F;996DE90C-B62C;Bachelors;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1959;non;oui;60-80k€;200-400K€;3_6;10_15;2022;250_500
+F;43DE024E-DE86;Masters;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1991;non;non;40-60k€;200-400K€;3_6;10_15;2022;250_500
+M;D17625DD-14B6;z_High School;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1953;oui;oui;60-80k€;_0;0_3;0_5;2022;250_500
+M;3A6902B8-B911;<High School;Private;Minivan;yes;z_Highly Rural/ Rural;complet;dev_integral;1998;non;non;40-60k€;_0;_0;0_5;2022;250_500
+F;C5435B83-91C7;<High School;Commercial;Van;no;Highly Urban/ Urban;complet;dev_express;2013;oui;oui;20-40k€;_0;0_3;0_5;2022;250_500
+M;A2C3DD49-360A;Bachelors;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_premium;2002;non;non;sup 100k€;200-400K€;_0;0_5;2022;250_500
+M;CA5FC7C0-04D5;<High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_express;1953;non;non;20-40k€;100-200K€;_0;5_10;2022;250_500
+F;0A54AD35-F44E;<High School;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_premium;1955;non;non;20-40k€;100-200K€;0_3;0_5;2022;250_500
+F;090C7227-48D8;z_High School;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1988;non;oui;20-40k€;_0;0_3;5_10;2022;250_500
+F;64C12B14-C560;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;2019;non;non;80-100k€;200-400K€;_0;10_15;2022;250_500
+M;4A00DCA8-92DC;Bachelors;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;1957;non;non;sup 100k€;200-400K€;_0;0_5;2022;250_500
+M;DF3C6681-1513;Bachelors;Commercial;Van;yes;z_Highly Rural/ Rural;complet;dev_integral;1959;non;non;80-100k€;200-400K€;0_3;5_10;2022;250_500
+M;4D172881-EDC3;Bachelors;Commercial;Minivan;no;Highly Urban/ Urban;complet;dev_express;1945;non;non;60-80k€;200-400K€;_0;0_5;2022;250_500
+F;1DB1546B-E745;Bachelors;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_premium;1995;non;oui;0-20k€;_0;_0;0_5;2022;250_500
+M;DF40566D-824D;PhD;Private;Minivan;no;Highly Urban/ Urban;complet;dev_premium;1977;non;non;20-40k€;_0;_0;10_15;2022;250_500
+M;96EDEE04-3B6D;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1943;non;non;20-40k€;100-200K€;_0;sup 15;2022;250_500
+F;F3CB79C9-9DD3;Bachelors;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_premium;2018;non;non;40-60k€;_0;3_6;5_10;2022;250_500
+F;4717626E-58E1;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1982;non;non;80-100k€;200-400K€;0_3;5_10;2022;250_500
+F;8ED0D04A-6456;<High School;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_express;1973;non;non;20-40k€;200-400K€;0_3;0_5;2022;250_500
+M;C0D4632F-3670;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;2016;non;non;0-20k€;_0;0_3;10_15;2022;250_500
+M;82DBB69D-E28C;Bachelors;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;1972;non;non;40-60k€;_0;_0;10_15;2022;250_500
+M;7EDC5664-9D78;Masters;Private;Minivan;no;z_Highly Rural/ Rural;complet;dev_express;1989;non;non;sup 100k€;200-400K€;0_3;5_10;2022;250_500
+M;7240A778-4C6C;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1973;non;oui;40-60k€;_0;0_3;10_15;2022;250_500
+F;6687E1CD-545C;<High School;Private;Minivan;no;z_Highly Rural/ Rural;complet;dev_express;1963;non;oui;0-20k€;_0;3_6;0_5;2022;250_500
+M;FAE53FD0-A5F7;<High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_integral;1963;oui;oui;20-40k€;0-100K€;_0;0_5;2022;250_500
+F;4385C7BC-9304;z_High School;Commercial;Minivan;yes;z_Highly Rural/ Rural;complet;dev_integral;1982;non;non;40-60k€;100-200K€;_0;5_10;2022;250_500
+M;01FFE19E-4D22;<High School;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_vip;1945;non;non;20-40k€;100-200K€;3_6;0_5;2022;500_750
+F;7573D144-0479;z_High School;Private;Minivan;no;Highly Urban/ Urban;complet;dev_premium;1967;non;non;0-20k€;0-100K€;0_3;5_10;2022;500_750
+M;0D7857E8-CC97;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1958;non;oui;40-60k€;100-200K€;_0;0_5;2022;250_500
+F;F2FB1693-EFBE;Bachelors;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_express;2018;non;non;;200-400K€;3_6;0_5;2022;250_500
+F;0CA4C43A-6B5C;Bachelors;Commercial;Minivan;no;z_Highly Rural/ Rural;complet;dev_express;1953;non;non;60-80k€;200-400K€;0_3;0_5;2022;250_500
+F;D2219D3C-C2F3;Masters;Private;Van;yes;Highly Urban/ Urban;complet;dev_express;2002;oui;oui;60-80k€;100-200K€;0_3;;2022;250_500
+F;E7E44D66-C3A7;<High School;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;2011;non;non;20-40k€;100-200K€;_0;0_5;2022;250_500
+F;C6D14A80-48A4;Masters;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_integral;1972;non;non;40-60k€;100-200K€;0_3;sup 15;2022;250_500
+M;0005C815-3261;Bachelors;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;1953;non;non;40-60k€;200-400K€;_0;0_5;2022;250_500
+F;0A5E10DA-17CE;Masters;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;2007;non;non;60-80k€;200-400K€;_0;5_10;2022;250_500
+M;62BBC47C-AB40;Bachelors;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_integral;1954;non;non;;;0_3;;2022;250_500
+F;D85312F5-84BA;z_High School;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;1939;oui;oui;0-20k€;_0;_0;5_10;2022;250_500
+F;F81B8DB1-9FBF;Masters;Private;Van;no;Highly Urban/ Urban;complet;dev_express;1955;non;non;sup 100k€;_0;_0;0_5;2022;250_500
+M;6493D801-FE19;Bachelors;Commercial;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1943;oui;oui;;_0;0_3;0_5;2022;250_500
+M;0BC9B0A9-554A;PhD;Private;Pickup;no;Highly Urban/ Urban;complet;dev_premium;2017;non;non;80-100k€;200-400K€;_0;sup 15;2022;250_500
+M;7E0EE65B-64FE;Bachelors;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_integral;2000;non;non;60-80k€;200-400K€;_0;5_10;2022;250_500
+F;F724397E-9DF6;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;2001;non;oui;80-100k€;200-400K€;_0;10_15;2022;250_500
+M;C2D91510-67FA;Masters;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1994;non;non;sup 100k€;200-400K€;_0;10_15;2022;250_500
+M;804B9FB4-D231;Masters;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_express;1964;non;non;0-20k€;0-100K€;_0;5_10;2022;250_500
+M;5FD52E55-0A68;<High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1950;non;oui;0-20k€;_0;_0;0_5;2022;250_500
+M;3C42C441-FB61;<High School;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;1970;non;oui;;100-200K€;0_3;0_5;2022;250_500
+M;486357F4-C66A;Bachelors;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;1963;non;oui;0-20k€;;0_3;10_15;2022;250_500
+F;D76BA8B7-7376;z_High School;Commercial;Van;no;Highly Urban/ Urban;complet;dev_integral;2006;non;non;40-60k€;200-400K€;6_9;10_15;2022;250_500
+M;DC522DA2-28B2;Bachelors;Private;Van;no;Highly Urban/ Urban;complet;dev_integral;1938;non;non;;200-400K€;_0;5_10;2022;250_500
+M;BD05452A-DD0E;z_High School;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_express;2021;oui;oui;60-80k€;200-400K€;3_6;5_10;2022;250_500
+F;4883A4D9-D3DA;Masters;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_express;2020;non;non;40-60k€;200-400K€;_0;sup 15;2022;250_500
+F;326A8C54-E5DA;z_High School;Commercial;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1994;non;non;40-60k€;200-400K€;0_3;5_10;2022;250_500
+M;00D13488-2C8E;<High School;Commercial;Pickup;no;z_Highly Rural/ Rural;complet;dev_integral;1959;non;oui;20-40k€;100-200K€;_0;0_5;2022;250_500
+M;B03CA158-47D2;z_High School;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1956;non;oui;;100-200K€;3_6;5_10;2022;250_500
+M;CBCB8373-AFB2;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1985;non;non;60-80k€;_0;3_6;10_15;2022;250_500
+F;6DD7EC33-CCC0;z_High School;Private;Minivan;no;Highly Urban/ Urban;complet;dev_premium;1963;non;oui;40-60k€;100-200K€;_0;;2022;250_500
+F;78F8D9A8-C2DC;Bachelors;Commercial;Van;no;Highly Urban/ Urban;complet;dev_integral;1983;non;non;sup 100k€;200-400K€;0_3;5_10;2022;250_500
+M;AE04CAD6-7502;<High School;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;2008;non;non;;100-200K€;0_3;0_5;2022;250_500
+M;58E82376-6BD9;z_High School;Commercial;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;2008;non;non;40-60k€;_0;_0;0_5;2022;250_500
+F;10BB00B5-DB9E;z_High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_express;2014;non;oui;0-20k€;100-200K€;3_6;0_5;2022;250_500
+M;6E69AC68-C612;Bachelors;Commercial;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1967;oui;oui;80-100k€;200-400K€;_0;5_10;2022;250_500
+F;785E6A6F-EF79;z_High School;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_express;1959;non;non;40-60k€;200-400K€;3_6;0_5;2022;250_500
+M;72D27952-79D4;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;2003;non;non;40-60k€;100-200K€;_0;0_5;2022;250_500
+F;CBEFFF62-110D;PhD;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1962;non;oui;sup 100k€;_0;0_3;10_15;2022;250_500
+M;13A41C18-1617;Bachelors;Private;Van;yes;Highly Urban/ Urban;complet;dev_premium;2006;non;non;80-100k€;200-400K€;0_3;5_10;2022;500_750
+M;6B34C4C1-58C6;z_High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_integral;1959;non;oui;0-20k€;0-100K€;_0;0_5;2022;250_500
+M;6F69A2E5-28FB;z_High School;Private;Van;no;Highly Urban/ Urban;complet;dev_integral;1966;oui;oui;60-80k€;200-400K€;0_3;5_10;2022;250_500
+M;FCBE0609-F99A;Bachelors;Commercial;Minivan;no;z_Highly Rural/ Rural;complet;dev_express;1956;non;oui;80-100k€;200-400K€;0_3;5_10;2022;250_500
+M;692284CC-9719;z_High School;Private;Minivan;yes;z_Highly Rural/ Rural;complet;dev_integral;1969;non;non;20-40k€;200-400K€;_0;0_5;2022;250_500
+M;0ACDA600-CDD8;Bachelors;Commercial;Minivan;yes;Highly Urban/ Urban;complet;dev_express;1959;non;non;40-60k€;200-400K€;_0;5_10;2022;250_500
+M;A032F2AB-7BDE;z_High School;Commercial;z_SUV;no;z_Highly Rural/ Rural;complet;dev_integral;1957;non;oui;0-20k€;_0;_0;10_15;2022;250_500
+M;89E38B21-D211;PhD;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;1956;non;oui;sup 100k€;200-400K€;0_3;10_15;2022;250_500
+F;D37CE559-916E;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1950;non;non;60-80k€;200-400K€;3_6;0_5;2022;250_500
+M;15A84611-4633;Bachelors;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1994;non;non;sup 100k€;200-400K€;_0;5_10;2022;250_500
+M;E7130C23-8D8B;z_High School;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_integral;2020;oui;oui;20-40k€;100-200K€;0_3;5_10;2022;250_500
+M;349AD290-E035;<High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1950;non;non;20-40k€;200-400K€;3_6;0_5;2022;250_500
+F;8D1DD7A6-DEF7;Masters;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;1995;non;non;40-60k€;200-400K€;_0;sup 15;2022;250_500
+M;5874C49D-2A36;PhD;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_integral;1967;non;non;sup 100k€;;0_3;5_10;2022;250_500
+M;53B3D992-B8D5;<High School;Private;Pickup;no;Highly Urban/ Urban;complet;dev_integral;1985;non;non;20-40k€;100-200K€;0_3;5_10;2022;250_500
+F;5D957E3B-BEF3;z_High School;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_express;1971;non;oui;20-40k€;_0;6_9;0_5;2022;250_500
+M;F5E1B2ED-2BA9;Bachelors;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_premium;1964;non;non;0-20k€;100-200K€;0_3;5_10;2022;250_500
+F;0CF0F1CD-57CC;Masters;Private;Sports Car;yes;Highly Urban/ Urban;complet;dev_integral;1995;non;non;60-80k€;200-400K€;0_3;5_10;2022;250_500
+M;100A8794-672E;PhD;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;2007;non;oui;sup 100k€;200-400K€;0_3;sup 15;2022;250_500
+F;0ED08AC9-E8ED;PhD;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1982;non;non;sup 100k€;200-400K€;0_3;10_15;2022;250_500
+F;53252C21-FFD0;PhD;Private;z_SUV;yes;Highly Urban/ Urban;complet;dev_integral;1969;non;non;80-100k€;200-400K€;_0;sup 15;2022;250_500
+M;64B7B2DB-4660;z_High School;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_express;2017;oui;oui;0-20k€;_0;0_3;0_5;2022;250_500
+F;8F5233F6-0264;Bachelors;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_premium;1976;non;non;20-40k€;200-400K€;_0;5_10;2022;250_500
+M;BDDEC640-D9AD;z_High School;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_integral;2015;non;oui;80-100k€;200-400K€;_0;5_10;2022;250_500
+M;441DCD7F-44DB;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1932;non;non;80-100k€;200-400K€;0_3;10_15;2022;250_500
+F;0793E08E-CE02;Masters;Private;Pickup;no;Highly Urban/ Urban;complet;dev_integral;1996;non;non;sup 100k€;200-400K€;0_3;5_10;2022;250_500
+M;C2A51040-0E15;z_High School;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1952;oui;oui;0-20k€;;_0;0_5;2022;250_500
+F;1F0246D3-48EF;<High School;Commercial;Pickup;no;z_Highly Rural/ Rural;complet;dev_integral;1963;non;oui;0-20k€;0-100K€;0_3;5_10;2022;250_500
+M;F20BC65A-D5B9;Masters;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1974;non;non;60-80k€;100-200K€;0_3;10_15;2022;250_500
+M;AB2B8583-ABF0;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;2009;non;non;60-80k€;200-400K€;3_6;0_5;2022;250_500
+M;8C074554-E01D;z_High School;Commercial;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1988;non;non;40-60k€;200-400K€;0_3;0_5;2022;250_500
+F;C11E0192-9B0B;Bachelors;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1972;non;non;60-80k€;;_0;5_10;2022;250_500
+M;955A0F5E-9495;Masters;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_express;1953;non;non;60-80k€;100-200K€;0_3;sup 15;2022;250_500
+M;167F41ED-4264;Bachelors;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_integral;1995;non;non;40-60k€;100-200K€;0_3;5_10;2022;250_500
+M;B859923F-4907;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1953;non;non;40-60k€;100-200K€;0_3;sup 15;2022;250_500
+M;BF8AFCD7-CD55;Bachelors;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_integral;1963;non;non;40-60k€;;_0;sup 15;2022;250_500
+M;6CDABD30-2C52;Bachelors;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_integral;1958;non;non;40-60k€;;3_6;0_5;2022;250_500
+F;5C493AB7-8987;Masters;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_integral;1994;non;non;80-100k€;200-400K€;_0;sup 15;2022;250_500
+M;E3FC2E1F-AA59;Masters;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_express;1959;non;oui;;200-400K€;_0;10_15;2022;250_500
+F;6C894607-D8C6;Bachelors;Commercial;z_SUV;no;z_Highly Rural/ Rural;complet;dev_integral;1982;non;oui;sup 100k€;200-400K€;0_3;0_5;2022;250_500
+M;9C10681E-5F99;Masters;Private;Minivan;no;z_Highly Rural/ Rural;complet;dev_premium;1959;non;non;60-80k€;200-400K€;0_3;sup 15;2022;250_500
+F;AFAF82C6-7EDE;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;2017;oui;oui;80-100k€;200-400K€;0_3;sup 15;2022;250_500
+M;A82193B6-37BC;PhD;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1978;non;non;sup 100k€;sup 400K€;0_3;10_15;2022;250_500
+M;1B540058-ADAB;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_premium;1973;non;non;sup 100k€;sup 400K€;0_3;10_15;2022;250_500
+M;3E95D7EA-5FC9;Bachelors;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_integral;1960;non;non;0-20k€;100-200K€;0_3;10_15;2022;250_500
+F;EFDF9B7F-AAE5;Bachelors;Commercial;Minivan;no;z_Highly Rural/ Rural;complet;dev_premium;1961;non;non;60-80k€;200-400K€;_0;0_5;2022;250_500
+M;B0167BD7-6450;Masters;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_integral;1961;non;non;80-100k€;200-400K€;0_3;10_15;2022;250_500
+M;ECA599A9-21DE;Bachelors;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_express;1945;non;non;60-80k€;100-200K€;_0;sup 15;2022;250_500
+F;3A92094D-0667;z_High School;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1942;non;non;60-80k€;100-200K€;0_3;0_5;2022;250_500
+F;E7664FF0-08F4;<High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1941;non;oui;0-20k€;0-100K€;3_6;0_5;2022;250_500
+M;10A4A442-CE9E;Masters;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_integral;1959;non;non;40-60k€;_0;0_3;sup 15;2022;250_500
+M;45F60735-7212;Bachelors;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_integral;1938;non;oui;40-60k€;100-200K€;_0;10_15;2022;250_500
+M;0B061A2A-9138;Bachelors;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1968;non;non;;200-400K€;0_3;5_10;2022;250_500
+F;CCAE8B37-400F;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;1954;oui;oui;0-20k€;0-100K€;_0;5_10;2022;250_500
+M;8FE67183-9CDD;Bachelors;Commercial;Sports Car;no;Highly Urban/ Urban;complet;dev_express;1954;non;non;60-80k€;200-400K€;_0;0_5;2022;250_500
+M;2A308165-B9C1;Bachelors;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;1966;non;non;40-60k€;100-200K€;_0;10_15;2022;250_500
+F;7F0371E9-A7F1;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1987;non;non;0-20k€;100-200K€;_0;5_10;2022;250_500
+F;6E24523F-A088;Bachelors;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1963;non;oui;sup 100k€;200-400K€;_0;5_10;2022;250_500
+M;C76D69E9-8CAB;Masters;Private;Pickup;no;Highly Urban/ Urban;complet;dev_integral;1939;non;non;80-100k€;200-400K€;_0;10_15;2022;250_500
+F;894DDD38-68DC;Bachelors;Private;Minivan;yes;z_Highly Rural/ Rural;complet;dev_express;1936;non;non;40-60k€;200-400K€;_0;5_10;2022;250_500
+F;1773DE6F-B5D0;<High School;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1963;non;oui;0-20k€;_0;_0;0_5;2022;250_500
+M;AE9399C3-493C;Bachelors;Commercial;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1961;non;oui;0-20k€;_0;6_9;5_10;2022;250_500
+F;23081CA6-2B9E;<High School;Private;Van;no;Highly Urban/ Urban;complet;dev_express;1997;non;non;;100-200K€;3_6;0_5;2022;250_500
+F;DE333FD0-48B6;z_High School;Private;Pickup;no;Highly Urban/ Urban;complet;dev_integral;2011;non;non;0-20k€;100-200K€;0_3;0_5;2022;250_500
+M;506AA212-DEA8;z_High School;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;2019;non;oui;;_0;_0;5_10;2022;250_500
+F;C8113EB5-E0EB;PhD;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1957;non;non;;200-400K€;_0;sup 15;2022;250_500
+M;5D096EAF-AF7B;z_High School;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_express;1969;non;non;20-40k€;0-100K€;3_6;10_15;2022;250_500
+M;5E8955B1-A0C0;PhD;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1950;non;oui;sup 100k€;sup 400K€;0_3;sup 15;2022;250_500
+M;73ED33A5-9E48;Bachelors;Commercial;z_SUV;no;z_Highly Rural/ Rural;complet;dev_integral;1959;non;oui;0-20k€;;0_3;0_5;2022;250_500
+M;8AC30214-37D8;Bachelors;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_integral;1973;non;non;60-80k€;;_0;0_5;2022;250_500
+F;9F38EFFC-F490;Masters;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_express;1977;non;non;60-80k€;200-400K€;_0;10_15;2022;250_500
+F;4101DEA6-864D;Bachelors;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1943;non;oui;40-60k€;_0;0_3;0_5;2022;250_500
+M;B0AAB242-EEB5;Bachelors;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_integral;1963;non;oui;0-20k€;_0;_0;5_10;2022;250_500
+M;59E95DFE-84B7;Bachelors;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_express;1950;non;oui;60-80k€;200-400K€;3_6;0_5;2022;250_500
+F;70971DB1-179F;Masters;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1964;non;non;60-80k€;100-200K€;_0;sup 15;2022;250_500
+M;1A13AFF8-F173;PhD;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_premium;1994;non;non;80-100k€;200-400K€;0_3;sup 15;2022;250_500
+M;60E9BAAD-184F;Masters;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_premium;2011;oui;oui;80-100k€;200-400K€;_0;10_15;2022;250_500
+F;B6F7670C-9331;<High School;Private;Pickup;no;Highly Urban/ Urban;complet;dev_integral;1965;oui;oui;20-40k€;_0;3_6;0_5;2022;250_500
+M;A6BF286B-C75B;z_High School;Commercial;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1947;non;oui;0-20k€;100-200K€;3_6;5_10;2022;250_500
+F;E0FB4017-CF8E;Masters;Private;Van;no;Highly Urban/ Urban;complet;dev_express;1957;non;non;80-100k€;_0;3_6;10_15;2022;250_500
+F;45BEE13C-834B;<High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1950;non;oui;20-40k€;100-200K€;0_3;0_5;2022;250_500
+F;8270C838-BD1F;Bachelors;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_express;2000;non;oui;0-20k€;_0;0_3;5_10;2022;250_500
+M;65869C1D-8389;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1955;non;oui;sup 100k€;200-400K€;6_9;10_15;2022;250_500
+M;92B982C6-93AE;z_High School;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1947;non;oui;0-20k€;_0;6_9;0_5;2022;250_500
+M;C9F59002-3D14;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1956;non;non;sup 100k€;200-400K€;_0;sup 15;2022;250_500
+F;8ADF0110-9F09;PhD;Commercial;Van;no;Highly Urban/ Urban;complet;dev_premium;1963;non;non;sup 100k€;sup 400K€;3_6;5_10;2022;250_500
+F;9921D354-4589;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;2022;non;non;;200-400K€;0_3;10_15;2022;250_500
+F;91C14162-8A1F;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1965;non;non;80-100k€;200-400K€;_0;0_5;2022;250_500
+M;0486E436-1151;Masters;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_express;1962;non;non;40-60k€;200-400K€;_0;5_10;2022;250_500
+F;E0855C4E-D6FE;z_High School;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;2001;non;non;20-40k€;_0;0_3;0_5;2022;250_500
+M;693F7C5D-7E25;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1945;oui;oui;60-80k€;_0;0_3;5_10;2022;250_500
+F;883ADB2D-3115;z_High School;Commercial;Pickup;no;z_Highly Rural/ Rural;complet;dev_express;1983;non;non;20-40k€;_0;0_3;;2022;250_500
+F;E1A188D9-1291;<High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_integral;2009;non;non;0-20k€;_0;_0;0_5;2022;250_500
+M;6F18C5BF-5808;PhD;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1981;non;non;;;0_3;5_10;2022;250_500
+M;9E074C79-DD2E;<High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;2006;non;non;0-20k€;0-100K€;3_6;0_5;2022;250_500
+F;F9A9676B-C8AD;PhD;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_express;1961;non;non;80-100k€;_0;3_6;sup 15;2022;250_500
+M;C7E34AAE-C2B3;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1956;non;non;60-80k€;200-400K€;6_9;sup 15;2022;250_500
+M;0F17B925-0A66;PhD;Private;Pickup;no;Highly Urban/ Urban;complet;dev_premium;2007;non;non;sup 100k€;sup 400K€;_0;5_10;2022;500_750
+F;371CB51C-7C84;z_High School;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_premium;1961;non;non;60-80k€;200-400K€;3_6;0_5;2022;250_500
+F;38131061-FA0E;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_vip;1978;oui;oui;20-40k€;_0;_0;0_5;2022;sup 750
+F;37EB8295-A1C8;Masters;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_express;2011;non;non;80-100k€;;_0;5_10;2022;250_500
+M;5DB7DF46-4B99;z_High School;Private;Minivan;no;z_Highly Rural/ Rural;complet;dev_integral;2001;non;non;20-40k€;0-100K€;3_6;0_5;2022;250_500
+F;52533FD9-5A9F;<High School;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_integral;1936;non;oui;20-40k€;100-200K€;3_6;5_10;2022;250_500
+F;78CE0701-0FB2;z_High School;Commercial;Pickup;no;z_Highly Rural/ Rural;complet;dev_integral;1997;oui;oui;sup 100k€;_0;_0;5_10;2022;250_500
+F;DE534683-1E3B;PhD;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_integral;1981;non;non;sup 100k€;_0;0_3;10_15;2022;250_500
+M;1CE58940-FDAF;z_High School;Private;Van;no;Highly Urban/ Urban;complet;dev_express;1969;non;non;20-40k€;100-200K€;_0;5_10;2022;250_500
+F;6052BE88-96F4;PhD;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;1942;non;oui;sup 100k€;_0;_0;10_15;2022;500_750
+M;BD9C4875-BF19;z_High School;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_premium;1964;non;non;40-60k€;100-200K€;0_3;5_10;2022;250_500
+F;C4715CC0-55A6;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;1991;non;non;40-60k€;100-200K€;3_6;10_15;2022;250_500
+F;A21D1E37-DC1E;PhD;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1985;non;non;sup 100k€;sup 400K€;_0;sup 15;2022;250_500
+F;17CB5D35-26BF;Masters;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_premium;1955;non;non;sup 100k€;200-400K€;_0;5_10;2022;250_500
+F;7151FC25-A3F6;z_High School;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_vip;2008;non;non;;;3_6;5_10;2022;sup 750
+M;D894FFB6-2A0A;z_High School;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;1933;non;non;40-60k€;100-200K€;0_3;10_15;2022;250_500
+F;4426203C-2446;Bachelors;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1946;non;oui;0-20k€;0-100K€;_0;5_10;2022;250_500
+F;B672FBC1-027C;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;1936;non;non;40-60k€;100-200K€;3_6;;2022;500_750
+M;7497C9B7-7C3D;z_High School;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_integral;1935;non;oui;40-60k€;_0;0_3;5_10;2022;250_500
+M;5579AAE7-DFD9;z_High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_premium;1983;oui;oui;sup 100k€;200-400K€;3_6;5_10;2022;250_500
+F;C5E9A6AB-DE21;PhD;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_express;1982;non;non;sup 100k€;_0;3_6;10_15;2022;250_500
+M;09186615-7207;Bachelors;Commercial;Van;no;Highly Urban/ Urban;complet;dev_integral;1965;non;non;sup 100k€;200-400K€;3_6;10_15;2022;250_500
+F;12EDC0BB-91CB;<High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1961;non;non;40-60k€;_0;_0;0_5;2022;250_500
+F;CB392891-728B;PhD;Private;Minivan;no;z_Highly Rural/ Rural;complet;dev_integral;1960;non;non;20-40k€;_0;3_6;10_15;2022;250_500
+M;9ED2472A-28A8;<High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;2013;oui;oui;0-20k€;_0;_0;0_5;2022;250_500
+M;9F8FFE4D-1699;z_High School;Private;Pickup;no;Highly Urban/ Urban;complet;dev_express;1979;non;non;20-40k€;_0;0_3;0_5;2022;250_500
+F;719D43F8-AC26;Masters;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_premium;2016;non;non;sup 100k€;_0;0_3;sup 15;2022;250_500
+M;E6496CC5-A900;Bachelors;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_integral;1943;non;oui;60-80k€;200-400K€;0_3;5_10;2022;250_500
+M;BAAF6E95-14D2;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1972;non;non;60-80k€;;_0;5_10;2022;250_500
+F;E0A69B0E-F075;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;1968;non;non;60-80k€;200-400K€;0_3;;2022;250_500
+M;89A7EF3D-538E;Bachelors;Commercial;Van;no;Highly Urban/ Urban;complet;dev_integral;1974;non;non;40-60k€;200-400K€;_0;5_10;2022;250_500
+M;A5990F3A-B77D;z_High School;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_integral;1941;non;non;0-20k€;_0;3_6;5_10;2022;250_500
+F;B68CD946-8B4E;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1933;non;oui;20-40k€;_0;_0;5_10;2022;250_500
+M;4DFA4476-6E6B;z_High School;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1960;non;non;20-40k€;;_0;5_10;2022;250_500
+M;9E956436-640E;Bachelors;Commercial;z_SUV;yes;Highly Urban/ Urban;complet;dev_integral;1957;non;non;60-80k€;200-400K€;_0;10_15;2022;250_500
+F;C2B50F8D-4393;Bachelors;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_express;2012;non;non;40-60k€;_0;_0;10_15;2022;250_500
+M;E6C5C5AC-1F88;Bachelors;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_premium;1935;non;non;40-60k€;100-200K€;3_6;5_10;2022;250_500
+F;FCCC185A-BA39;Bachelors;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1969;non;non;80-100k€;_0;0_3;5_10;2022;250_500
+M;31763761-7432;PhD;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1963;non;non;sup 100k€;200-400K€;6_9;sup 15;2022;250_500
+M;01E07C6B-9DF8;<High School;Private;Van;yes;Highly Urban/ Urban;complet;dev_integral;1969;non;non;20-40k€;_0;0_3;0_5;2022;250_500
+F;C8BFF2F2-13DA;z_High School;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1942;non;oui;60-80k€;200-400K€;_0;;2022;250_500
+M;96E7E52D-EC1D;z_High School;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_express;1936;non;non;40-60k€;100-200K€;_0;0_5;2022;250_500
+M;758519AE-444F;<High School;Private;Sports Car;no;z_Highly Rural/ Rural;complet;dev_express;1970;oui;oui;40-60k€;100-200K€;0_3;0_5;2022;250_500
+M;58FF01E0-8C6E;Bachelors;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_integral;1976;non;non;80-100k€;_0;_0;5_10;2022;250_500
+M;BA7EFC8F-FD2E;z_High School;Commercial;Minivan;no;Highly Urban/ Urban;complet;dev_express;1968;non;non;40-60k€;100-200K€;_0;5_10;2022;250_500
+F;3EDC0C50-4287;Masters;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;1971;non;non;80-100k€;200-400K€;0_3;5_10;2022;250_500
+F;A7833F5D-1BDB;Masters;Private;Minivan;no;z_Highly Rural/ Rural;complet;dev_express;1982;non;non;sup 100k€;200-400K€;_0;10_15;2022;250_500
+F;9D06D246-5CCB;z_High School;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1956;non;non;40-60k€;100-200K€;0_3;0_5;2022;250_500
+F;2C52082A-318E;Masters;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_express;1947;non;non;;200-400K€;_0;10_15;2022;250_500
+M;9BB1A66D-ECBA;z_High School;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_premium;1961;non;non;0-20k€;_0;3_6;5_10;2022;500_750
+F;A436274F-3745;<High School;Private;Minivan;yes;z_Highly Rural/ Rural;complet;dev_integral;1950;non;non;0-20k€;_0;_0;0_5;2022;250_500
+M;D32A1EDD-D718;z_High School;Private;Pickup;no;z_Highly Rural/ Rural;complet;dev_express;1957;non;oui;0-20k€;_0;_0;5_10;2022;250_500
+M;116AA202-54F4;Bachelors;Private;Pickup;no;Highly Urban/ Urban;complet;dev_express;1945;non;non;80-100k€;200-400K€;0_3;5_10;2022;250_500
+F;E729B77B-6E15;<High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_express;1987;non;non;;_0;0_3;5_10;2022;250_500
+M;95FAFAD1-3836;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;1968;non;non;40-60k€;200-400K€;0_3;10_15;2022;250_500
+M;693F0BF7-B986;z_High School;Commercial;z_SUV;yes;Highly Urban/ Urban;complet;dev_express;1998;non;non;20-40k€;200-400K€;_0;0_5;2022;250_500
+F;3C9C1C69-BD77;Masters;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_express;1942;non;non;20-40k€;100-200K€;0_3;10_15;2022;250_500
+F;3B543AAE-2F9A;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;1960;non;non;sup 100k€;200-400K€;0_3;sup 15;2022;250_500
+F;28C91AED-569D;Masters;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_premium;2022;non;oui;80-100k€;_0;_0;10_15;2022;500_750
+M;7C25E21E-2563;z_High School;Private;Sports Car;no;z_Highly Rural/ Rural;complet;dev_integral;1943;non;oui;40-60k€;_0;3_6;5_10;2022;250_500
+F;C4E0B78F-0876;Masters;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1964;non;non;sup 100k€;sup 400K€;_0;sup 15;2022;250_500
+M;70473DD4-4E8D;Bachelors;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_premium;1951;non;oui;0-20k€;100-200K€;_0;10_15;2022;250_500
+M;DAC5253B-6132;z_High School;Commercial;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1982;non;non;;200-400K€;3_6;0_5;2022;250_500
+F;479A294A-730D;Bachelors;Private;Sports Car;yes;Highly Urban/ Urban;complet;dev_express;1972;non;oui;0-20k€;0-100K€;sup 9;_0;2022;250_500
+F;8E0DD98F-A33A;Bachelors;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_express;1992;non;non;80-100k€;200-400K€;_0;0_5;2022;250_500
+F;B94B1E67-3C51;z_High School;Commercial;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;2012;oui;oui;40-60k€;100-200K€;_0;5_10;2022;250_500
+M;AC9D49E4-99BE;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1990;non;non;80-100k€;200-400K€;3_6;0_5;2022;250_500
+F;63C8E636-B3F6;<High School;Private;Minivan;no;z_Highly Rural/ Rural;complet;dev_vip;1971;non;non;20-40k€;100-200K€;_0;0_5;2022;sup 750
+M;855665B6-CE16;Bachelors;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;1983;non;non;80-100k€;200-400K€;0_3;10_15;2022;250_500
+F;355E083F-FBF6;z_High School;Private;Pickup;no;Highly Urban/ Urban;complet;dev_integral;1970;non;oui;0-20k€;_0;_0;5_10;2022;250_500
+M;8AD51F44-2635;z_High School;Commercial;z_SUV;no;z_Highly Rural/ Rural;complet;dev_express;1999;oui;oui;0-20k€;_0;_0;5_10;2022;250_500
+F;220E0BBF-1B53;Masters;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_integral;1998;non;non;sup 100k€;200-400K€;0_3;;2022;250_500
+F;BBBBCED0-4E59;Masters;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_express;1994;oui;oui;60-80k€;200-400K€;_0;10_15;2022;250_500
+M;72052364-1C7F;<High School;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_express;1951;non;oui;40-60k€;100-200K€;0_3;0_5;2022;250_500
+F;91D1CBA7-12D5;Bachelors;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_premium;2009;non;oui;60-80k€;200-400K€;_0;0_5;2022;500_750
+F;13680799-A64A;z_High School;Commercial;z_SUV;no;z_Highly Rural/ Rural;complet;dev_integral;1971;non;non;40-60k€;_0;_0;5_10;2022;250_500
+F;972FDCBA-3740;Masters;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;1999;non;non;80-100k€;200-400K€;0_3;sup 15;2022;250_500
+M;6751BA2F-C51C;z_High School;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1955;non;oui;0-20k€;0-100K€;0_3;5_10;2022;250_500
+F;421274D6-EDAD;z_High School;Commercial;Pickup;yes;z_Highly Rural/ Rural;complet;dev_integral;1942;non;non;0-20k€;_0;0_3;0_5;2022;250_500
+F;71C02F19-99CC;Bachelors;Commercial;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1979;non;non;sup 100k€;200-400K€;0_3;5_10;2022;250_500
+M;198EF0F8-0A33;Bachelors;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1971;non;oui;60-80k€;_0;_0;5_10;2022;250_500
+F;972E4033-CFF3;Bachelors;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1947;oui;oui;60-80k€;200-400K€;3_6;10_15;2022;250_500
+M;38849E7E-7C0D;z_High School;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1955;non;non;60-80k€;_0;_0;10_15;2022;250_500
+M;39EAECB4-441D;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1940;oui;oui;60-80k€;200-400K€;_0;5_10;2022;250_500
+F;87365598-99E8;<High School;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;1963;oui;oui;0-20k€;_0;_0;;2022;250_500
+F;A6A2D692-D964;PhD;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_premium;1950;non;oui;sup 100k€;_0;_0;5_10;2022;250_500
+F;2C2649A9-DFC2;<High School;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;2001;oui;oui;20-40k€;100-200K€;_0;5_10;2022;250_500
+M;C10BCADB-6BF7;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;2019;non;oui;60-80k€;200-400K€;0_3;0_5;2022;500_750
+F;155C3BED-1896;z_High School;Commercial;z_SUV;no;z_Highly Rural/ Rural;complet;dev_express;1972;non;non;0-20k€;;_0;5_10;2022;250_500
+F;72853361-4566;<High School;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1968;non;oui;20-40k€;_0;3_6;0_5;2022;250_500
+M;68B718C8-D565;z_High School;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;2011;non;oui;0-20k€;100-200K€;3_6;5_10;2022;250_500
+M;E2F2852E-43D9;Bachelors;Commercial;Minivan;yes;Highly Urban/ Urban;complet;dev_express;1947;non;non;80-100k€;;sup 9;5_10;2022;250_500
+M;70A53646-2257;Masters;Commercial;Van;no;Highly Urban/ Urban;complet;dev_premium;1977;non;non;40-60k€;200-400K€;0_3;10_15;2022;250_500
+M;264E5E1B-0CA4;z_High School;Commercial;Panel Truck;no;z_Highly Rural/ Rural;complet;dev_express;1973;non;non;20-40k€;100-200K€;_0;0_5;2022;250_500
+M;838304ED-76B9;Bachelors;Commercial;Pickup;yes;z_Highly Rural/ Rural;complet;dev_integral;2015;non;non;60-80k€;200-400K€;0_3;5_10;2022;250_500
+F;C6645C38-9B39;Bachelors;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_integral;1974;non;non;80-100k€;200-400K€;_0;5_10;2022;250_500
+F;95F576BC-FB02;PhD;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1951;non;non;sup 100k€;_0;_0;;2022;250_500
+M;A2643A70-3DAB;Bachelors;Commercial;Minivan;no;Highly Urban/ Urban;complet;dev_express;1968;oui;oui;80-100k€;_0;3_6;0_5;2022;250_500
+M;0B2D46B7-A6FB;Bachelors;Commercial;Minivan;no;Highly Urban/ Urban;complet;dev_premium;1945;non;non;40-60k€;200-400K€;3_6;5_10;2022;250_500
+F;0D6BA75B-866E;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1950;non;non;60-80k€;100-200K€;_0;;2022;250_500
+M;2A4A96CF-6067;<High School;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1998;non;oui;20-40k€;100-200K€;_0;;2022;250_500
+M;57049596-1F5D;z_High School;Private;Van;yes;Highly Urban/ Urban;complet;dev_premium;1957;non;non;20-40k€;100-200K€;0_3;10_15;2022;500_750
+M;6E1BF586-5EB7;z_High School;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1978;non;non;sup 100k€;200-400K€;0_3;0_5;2022;250_500
+F;F919D03B-DEB8;Bachelors;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_premium;2009;oui;oui;sup 100k€;200-400K€;0_3;0_5;2022;250_500
+M;79FD3E6E-88B0;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1968;non;oui;20-40k€;200-400K€;_0;5_10;2022;250_500
+F;9CFF9AF6-A218;Masters;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_express;1960;non;non;sup 100k€;_0;_0;;2022;250_500
+F;09D952B6-05A6;Bachelors;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;1934;non;non;40-60k€;_0;3_6;5_10;2022;250_500
+F;296F4AFC-9AEE;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;2019;non;non;60-80k€;_0;3_6;sup 15;2022;250_500
+F;FF025158-FCFC;<High School;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;2008;non;oui;;0-100K€;0_3;5_10;2022;250_500
+M;79F0F9D3-1362;Bachelors;Private;Minivan;no;Highly Urban/ Urban;complet;dev_premium;1991;non;non;60-80k€;100-200K€;_0;5_10;2022;250_500
+F;4655EFB4-6C02;Masters;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_integral;1957;non;non;sup 100k€;200-400K€;0_3;10_15;2022;250_500
+M;FA283FFC-865C;Masters;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1973;non;non;sup 100k€;200-400K€;_0;sup 15;2022;250_500
+M;AF080FDE-2F63;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;1953;oui;oui;sup 100k€;200-400K€;0_3;10_15;2022;250_500
+F;6366C211-432C;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1940;oui;oui;20-40k€;100-200K€;0_3;sup 15;2022;250_500
+M;5532BA5E-ABF7;<High School;Private;Sports Car;no;z_Highly Rural/ Rural;complet;dev_integral;1989;non;non;0-20k€;0-100K€;0_3;0_5;2022;250_500
+M;98A5825A-64B9;PhD;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1947;non;non;sup 100k€;_0;0_3;sup 15;2022;250_500
+M;2230C218-7FB0;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;2020;non;oui;0-20k€;_0;0_3;5_10;2022;250_500
+M;0A30E803-DF39;Bachelors;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_vip;1985;oui;oui;0-20k€;100-200K€;3_6;10_15;2022;500_750
+F;B5CB9814-3499;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1964;non;non;;_0;_0;10_15;2022;250_500
+M;F48EB2B9-8BAF;<High School;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_premium;1955;oui;oui;20-40k€;100-200K€;_0;5_10;2022;250_500
+F;45F9A352-9169;PhD;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_express;1972;non;non;60-80k€;200-400K€;_0;10_15;2022;250_500
+M;EBC2F234-CC43;z_High School;Private;Sports Car;no;z_Highly Rural/ Rural;complet;dev_premium;2007;non;oui;0-20k€;100-200K€;_0;0_5;2022;250_500
+M;A673F76F-1548;Bachelors;Commercial;Minivan;yes;Highly Urban/ Urban;complet;dev_premium;1962;non;non;0-20k€;100-200K€;0_3;5_10;2022;250_500
+F;CDED63FE-FA56;z_High School;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_premium;1959;non;non;40-60k€;;3_6;0_5;2022;250_500
+M;1E664D8C-8070;PhD;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;1952;non;non;sup 100k€;_0;0_3;10_15;2022;250_500
+F;9FB11FF4-F3AB;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1968;oui;oui;sup 100k€;sup 400K€;_0;sup 15;2022;250_500
+F;73BA7140-91BB;<High School;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;1956;non;non;60-80k€;200-400K€;3_6;;2022;250_500
+F;780AE024-CDB3;PhD;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_express;2009;non;non;sup 100k€;sup 400K€;0_3;10_15;2022;250_500
+M;EBFF8EE5-9778;PhD;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1953;non;non;sup 100k€;sup 400K€;_0;sup 15;2022;250_500
+M;5FD13B0D-6CF0;PhD;Private;Sports Car;yes;Highly Urban/ Urban;complet;dev_integral;2006;non;non;sup 100k€;sup 400K€;_0;;2022;250_500
+M;4443B539-56B2;<High School;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1977;non;oui;20-40k€;;_0;0_5;2022;250_500
+F;F07E0A5E-B2E7;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;1975;non;non;60-80k€;200-400K€;0_3;sup 15;2022;250_500
+M;EA16F78A-8559;z_High School;Private;Minivan;yes;z_Highly Rural/ Rural;complet;dev_premium;1965;non;non;40-60k€;100-200K€;_0;0_5;2022;250_500
+F;3969E8C9-6DE5;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;1977;non;non;40-60k€;_0;3_6;10_15;2022;250_500
+M;35201742-5C82;Bachelors;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_express;1974;non;non;0-20k€;0-100K€;_0;10_15;2022;250_500
+F;11B9A66E-3487;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1972;non;non;0-20k€;100-200K€;_0;0_5;2022;250_500
+F;2F3960D6-1665;Masters;Commercial;Van;no;Highly Urban/ Urban;complet;dev_integral;1949;non;non;80-100k€;_0;_0;sup 15;2022;250_500
+M;2B0BE197-9677;z_High School;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_express;2009;non;oui;20-40k€;100-200K€;0_3;0_5;2022;250_500
+F;2018C096-80DB;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;1943;non;non;80-100k€;200-400K€;0_3;sup 15;2022;250_500
+F;D4B25FC9-8665;<High School;Private;Minivan;no;z_Highly Rural/ Rural;complet;dev_integral;1969;non;non;20-40k€;_0;0_3;0_5;2022;250_500
+F;BC0316B8-DD1F;<High School;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_integral;1965;oui;oui;0-20k€;100-200K€;0_3;0_5;2022;250_500
+F;36392CE6-7BBF;z_High School;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1985;non;non;20-40k€;100-200K€;_0;5_10;2022;250_500
+F;70ED57D2-3A81;Bachelors;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1958;non;non;60-80k€;_0;3_6;10_15;2022;250_500
+M;15D64273-51C6;PhD;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;1933;non;non;sup 100k€;;_0;sup 15;2022;250_500
+F;AD4B62A6-D1B7;Bachelors;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;1953;non;non;60-80k€;100-200K€;_0;5_10;2022;250_500
+F;60CB5824-3FC5;Masters;Private;Pickup;no;Highly Urban/ Urban;complet;dev_integral;2009;non;oui;60-80k€;100-200K€;0_3;sup 15;2022;250_500
+M;B9D46BED-FE13;PhD;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_express;1962;non;oui;sup 100k€;200-400K€;0_3;sup 15;2022;250_500
+F;BB6AC474-3AF1;<High School;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_premium;1966;non;non;40-60k€;200-400K€;0_3;5_10;2022;250_500
+M;7AA0F35A-7F10;z_High School;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_integral;2021;non;non;60-80k€;200-400K€;_0;0_5;2022;250_500
+M;9F65C093-2A84;Bachelors;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_express;1984;non;non;60-80k€;200-400K€;0_3;0_5;2022;250_500
+M;1E5B1D21-54BF;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;1963;non;non;sup 100k€;_0;3_6;sup 15;2022;250_500
+F;0485474E-5159;z_High School;Commercial;Pickup;no;z_Highly Rural/ Rural;complet;dev_premium;1984;non;oui;0-20k€;_0;_0;0_5;2022;250_500
+M;4254D7C9-55B6;Bachelors;Commercial;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;2009;non;non;20-40k€;100-200K€;3_6;5_10;2022;250_500
+F;8A7D90DB-2FE4;z_High School;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_integral;2015;non;non;20-40k€;100-200K€;0_3;10_15;2022;250_500
+F;9C7F4974-8029;z_High School;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1965;non;non;;100-200K€;_0;0_5;2022;250_500
+F;217B43B3-FF7C;z_High School;Commercial;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;2013;non;non;40-60k€;100-200K€;_0;0_5;2022;250_500
+M;14F88D17-6499;z_High School;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;1944;non;non;20-40k€;_0;0_3;0_5;2022;250_500
+F;A5DAAA42-ED76;Bachelors;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1961;non;non;80-100k€;_0;_0;10_15;2022;250_500
+M;8DC7D19C-F4B4;z_High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_integral;1995;non;oui;;0-100K€;0_3;5_10;2022;250_500
+M;72DD1871-0005;Masters;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_integral;1955;non;non;60-80k€;;0_3;0_5;2022;250_500
+M;40C4F263-C743;Masters;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_express;1956;non;non;sup 100k€;;_0;sup 15;2022;250_500
+M;B95AB132-47BB;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;2007;non;non;40-60k€;_0;_0;10_15;2022;250_500
+F;6D6CE32A-51D5;<High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_integral;1937;non;non;0-20k€;0-100K€;0_3;0_5;2022;250_500
+F;24E27364-D9C7;<High School;Private;z_SUV;yes;Highly Urban/ Urban;complet;dev_express;1965;non;non;40-60k€;_0;6_9;5_10;2022;250_500
+F;223470C5-0FC9;<High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_integral;1942;non;non;;100-200K€;_0;0_5;2022;250_500
+M;BD5E7972-0867;Bachelors;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1983;non;non;40-60k€;100-200K€;0_3;10_15;2022;250_500
+F;BE05E76E-C294;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1981;non;non;0-20k€;100-200K€;_0;;2022;250_500
+F;569496C2-689A;<High School;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;2003;non;non;0-20k€;0-100K€;_0;0_5;2022;250_500
+M;F2EE0DFF-BBC7;<High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_express;1973;non;non;0-20k€;100-200K€;_0;0_5;2022;250_500
+F;645ADFEB-B859;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1975;non;oui;0-20k€;100-200K€;0_3;0_5;2022;250_500
+M;F7333FD2-E9F4;Masters;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_express;1964;oui;oui;40-60k€;200-400K€;_0;10_15;2022;250_500
+F;9D2F28AE-C4D0;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1965;non;oui;20-40k€;_0;_0;10_15;2022;250_500
+F;18F260FC-535B;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1966;non;non;60-80k€;200-400K€;0_3;5_10;2022;250_500
+M;74C8D9D0-D044;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1994;non;oui;40-60k€;100-200K€;0_3;0_5;2022;250_500
+F;3AAB0C68-3793;Bachelors;Private;Pickup;no;Highly Urban/ Urban;complet;dev_express;1952;non;oui;20-40k€;_0;sup 9;0_5;2022;250_500
+M;6B5092F7-F8B3;z_High School;Commercial;Pickup;yes;z_Highly Rural/ Rural;complet;dev_express;2008;non;non;20-40k€;100-200K€;_0;0_5;2022;250_500
+M;681AEC75-F62A;z_High School;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;1955;non;oui;sup 100k€;200-400K€;_0;0_5;2022;250_500
+M;19FADC3A-C627;Bachelors;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1964;oui;oui;60-80k€;200-400K€;3_6;5_10;2022;250_500
+M;136A6314-6ADE;Masters;Private;Minivan;yes;z_Highly Rural/ Rural;complet;dev_express;1939;non;non;sup 100k€;_0;_0;sup 15;2022;250_500
+M;C11355E4-F42B;Masters;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_premium;1980;oui;oui;sup 100k€;200-400K€;_0;10_15;2022;500_750
+M;CD05DA7C-A636;z_High School;Commercial;Minivan;yes;Highly Urban/ Urban;complet;dev_express;1967;non;non;20-40k€;100-200K€;0_3;5_10;2022;250_500
+F;1B1B7B15-6A50;Masters;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_premium;2000;non;non;40-60k€;200-400K€;3_6;sup 15;2022;250_500
+F;BEF9F6BE-D5BB;<High School;Private;Sports Car;no;z_Highly Rural/ Rural;complet;dev_premium;1950;non;non;0-20k€;_0;0_3;5_10;2022;500_750
+F;4B3FC9AB-1D54;Masters;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_premium;1976;non;non;sup 100k€;200-400K€;_0;sup 15;2022;250_500
+M;EE954109-E130;z_High School;Private;Minivan;yes;z_Highly Rural/ Rural;complet;dev_express;2008;non;non;20-40k€;100-200K€;0_3;0_5;2022;250_500
+M;14FEA133-9A09;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1966;non;oui;80-100k€;200-400K€;_0;;2022;250_500
+M;B50881E0-4B75;Masters;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_premium;1965;non;oui;40-60k€;100-200K€;_0;10_15;2022;500_750
+F;310312AD-EA70;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1943;non;non;sup 100k€;200-400K€;3_6;10_15;2022;250_500
+F;7C7DE89B-AF0A;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1982;non;oui;0-20k€;_0;3_6;5_10;2022;250_500
+M;D1BBAE97-AE51;Bachelors;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;2019;non;non;0-20k€;_0;0_3;10_15;2022;250_500
+M;00961BC2-D3E0;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1996;oui;oui;20-40k€;_0;0_3;5_10;2022;250_500
+M;4C9AA563-C109;Bachelors;Private;Van;yes;Highly Urban/ Urban;complet;dev_express;1989;non;non;sup 100k€;200-400K€;3_6;0_5;2022;250_500
+F;F415AC94-5E9A;z_High School;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_vip;1962;non;oui;40-60k€;100-200K€;3_6;10_15;2022;sup 750
+M;FFCC0A3D-A48F;<High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_integral;1978;non;non;0-20k€;_0;6_9;5_10;2022;250_500
+F;2B70FE8A-1B11;Bachelors;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1952;oui;oui;60-80k€;200-400K€;3_6;10_15;2022;250_500
+M;230B67BE-C973;Bachelors;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;1966;non;oui;60-80k€;200-400K€;_0;;2022;250_500
+M;25389448-4B67;z_High School;Private;Pickup;no;z_Highly Rural/ Rural;complet;dev_premium;1973;non;oui;;;0_3;0_5;2022;250_500
+M;7B94E7F1-0A47;PhD;Private;Van;no;Highly Urban/ Urban;complet;dev_express;1968;non;non;;200-400K€;0_3;10_15;2022;250_500
+F;99BDEECD-8278;Masters;Private;Pickup;yes;z_Highly Rural/ Rural;complet;dev_integral;1982;non;non;0-20k€;100-200K€;3_6;sup 15;2022;250_500
+F;5A5EC983-B33B;Bachelors;Commercial;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1995;non;oui;20-40k€;_0;3_6;;2022;250_500
+M;96C3B50D-89C3;Bachelors;Commercial;Pickup;yes;z_Highly Rural/ Rural;complet;dev_integral;1980;non;oui;;_0;_0;5_10;2022;250_500
+M;C921F862-5F14;<High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1950;non;non;0-20k€;100-200K€;0_3;0_5;2022;250_500
+F;51E1C587-A207;z_High School;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1992;non;oui;20-40k€;100-200K€;_0;0_5;2022;250_500
+M;69AB03E0-3BBE;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1939;non;oui;sup 100k€;200-400K€;_0;10_15;2022;250_500
+F;D0743E20-B1BC;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;2021;non;non;0-20k€;_0;_0;0_5;2022;250_500
+M;C8056A0E-6270;Masters;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_integral;1994;non;non;60-80k€;200-400K€;3_6;10_15;2022;250_500
+M;3429C425-B6BE;z_High School;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1943;non;non;0-20k€;100-200K€;0_3;10_15;2022;250_500
+M;BF0D1A9B-33EB;PhD;Commercial;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1978;non;non;0-20k€;_0;3_6;5_10;2022;250_500
+M;8264AE53-6599;z_High School;Private;Sports Car;no;z_Highly Rural/ Rural;complet;dev_express;1987;non;non;0-20k€;0-100K€;_0;0_5;2022;250_500
+F;200C32BF-AD6A;z_High School;Commercial;Panel Truck;yes;z_Highly Rural/ Rural;complet;dev_integral;1986;non;non;0-20k€;_0;_0;5_10;2022;250_500
+M;B1AC9DB6-AAFF;Bachelors;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1968;non;non;40-60k€;100-200K€;3_6;5_10;2022;250_500
+F;59ECCD64-E4CB;z_High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_integral;1989;non;non;20-40k€;100-200K€;0_3;5_10;2022;250_500
+M;EBF566D5-F394;Bachelors;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;1952;non;non;80-100k€;200-400K€;_0;5_10;2022;250_500
+M;672E2D88-3151;z_High School;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1934;non;non;40-60k€;200-400K€;_0;5_10;2022;250_500
+M;74448553-F3C6;z_High School;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;2001;non;oui;0-20k€;_0;0_3;0_5;2022;250_500
+M;2DE96B2F-EBB6;Bachelors;Commercial;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1998;non;non;;;_0;5_10;2022;250_500
+F;E05F9084-D226;Bachelors;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_premium;1954;non;non;20-40k€;_0;3_6;10_15;2022;250_500
+M;5B61B8D6-906A;Bachelors;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_integral;1950;non;non;60-80k€;100-200K€;_0;0_5;2022;250_500
+M;5A9AB085-8813;Masters;Private;Pickup;no;Highly Urban/ Urban;complet;dev_integral;1932;non;non;80-100k€;_0;0_3;sup 15;2022;250_500
+F;E9C7EA0A-17EA;z_High School;Commercial;Minivan;no;z_Highly Rural/ Rural;complet;dev_integral;1958;non;oui;60-80k€;100-200K€;_0;0_5;2022;250_500
+F;D20BD6CC-0ABC;Bachelors;Commercial;Minivan;no;Highly Urban/ Urban;complet;dev_premium;1946;non;oui;60-80k€;200-400K€;0_3;0_5;2022;500_750
+F;1F31CF79-9EE0;<High School;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_integral;2008;non;non;40-60k€;100-200K€;_0;0_5;2022;250_500
+F;DC4466F9-5B0A;Masters;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_integral;1953;non;non;60-80k€;_0;6_9;10_15;2022;250_500
+M;D27B3A96-A459;Masters;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_express;1970;non;non;sup 100k€;sup 400K€;3_6;10_15;2022;250_500
+F;0FB816B1-29FD;Bachelors;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;1952;non;non;40-60k€;100-200K€;0_3;10_15;2022;250_500
+F;57B27EC0-1C79;PhD;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;2002;oui;non;sup 100k€;200-400K€;3_6;;2022;250_500
+M;08FE8EB1-A656;<High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_express;1983;non;non;0-20k€;100-200K€;_0;0_5;2022;250_500
+F;9B046EB4-E48B;Masters;Private;Van;no;Highly Urban/ Urban;complet;dev_express;1961;non;non;60-80k€;200-400K€;3_6;10_15;2022;250_500
+M;1EEF7248-426B;Masters;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1967;non;non;20-40k€;100-200K€;0_3;sup 15;2022;250_500
+F;DAE16965-A728;Bachelors;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1953;non;oui;40-60k€;100-200K€;_0;0_5;2022;250_500
+F;2F114132-8807;<High School;Commercial;Van;no;Highly Urban/ Urban;complet;dev_express;1945;non;non;20-40k€;100-200K€;6_9;0_5;2022;250_500
+F;815B9FBE-DDDA;Masters;Private;Van;yes;Highly Urban/ Urban;complet;dev_integral;2014;non;non;sup 100k€;200-400K€;_0;10_15;2022;250_500
+F;D7C1F93D-EFB4;Bachelors;Commercial;Pickup;yes;z_Highly Rural/ Rural;complet;dev_express;1974;oui;oui;sup 100k€;200-400K€;_0;0_5;2022;250_500
+F;9EF11598-9D13;z_High School;Commercial;Van;no;Highly Urban/ Urban;complet;dev_express;1978;oui;oui;40-60k€;200-400K€;_0;0_5;2022;250_500
+M;BF9D6887-7436;Bachelors;Commercial;Van;yes;z_Highly Rural/ Rural;complet;dev_integral;1974;oui;oui;sup 100k€;200-400K€;_0;10_15;2022;250_500
+F;EE82B5EB-D8A2;Masters;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_integral;1987;non;non;sup 100k€;_0;0_3;sup 15;2022;250_500
+F;316F90A4-6F61;Bachelors;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_integral;1956;non;non;40-60k€;100-200K€;0_3;10_15;2022;250_500
+F;CC8F7ECB-630D;z_High School;Private;Van;no;Highly Urban/ Urban;complet;dev_express;1951;oui;oui;20-40k€;_0;_0;;2022;250_500
+F;65E6A32A-6DAF;z_High School;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_express;1976;oui;oui;20-40k€;_0;_0;5_10;2022;250_500
+F;7BD10323-089B;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1967;non;non;40-60k€;;0_3;5_10;2022;250_500
+F;23A37426-8DEF;Bachelors;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_express;1970;non;non;20-40k€;_0;_0;0_5;2022;250_500
+M;90276794-D4C3;Bachelors;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;2002;non;non;60-80k€;_0;3_6;5_10;2022;250_500
+F;BDD200B3-2F51;Bachelors;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_integral;1998;non;non;sup 100k€;200-400K€;0_3;0_5;2022;250_500
+M;5BEFF766-8AC2;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1950;non;oui;sup 100k€;200-400K€;_0;10_15;2022;250_500
+M;AC90211B-888A;PhD;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;1986;non;non;80-100k€;200-400K€;0_3;sup 15;2022;250_500
+M;44EE6F13-26AB;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;2006;non;non;40-60k€;_0;_0;sup 15;2022;250_500
+F;8FECEEAF-D37E;Bachelors;Commercial;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;2005;non;oui;80-100k€;200-400K€;_0;0_5;2022;250_500
+F;C3A4F214-D90F;z_High School;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;1953;oui;oui;0-20k€;;3_6;0_5;2022;250_500
+F;3E8E7693-BE25;<High School;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;1986;oui;oui;40-60k€;100-200K€;3_6;0_5;2022;250_500
+M;178E35A8-B431;Bachelors;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_express;1942;non;non;;200-400K€;0_3;5_10;2022;250_500
+F;B565428C-D27C;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;2003;non;non;40-60k€;100-200K€;_0;10_15;2022;250_500
+M;EC0305CF-1FB2;<High School;Commercial;Van;yes;Highly Urban/ Urban;complet;dev_express;1970;non;oui;80-100k€;200-400K€;0_3;0_5;2022;250_500
+M;AC1DA658-88E2;<High School;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_integral;1957;non;non;20-40k€;_0;_0;0_5;2022;250_500
+F;2A87B6C6-345F;Masters;Private;Sports Car;yes;Highly Urban/ Urban;complet;dev_integral;1965;non;oui;20-40k€;100-200K€;6_9;5_10;2022;250_500
+F;2879B857-FD3A;Bachelors;Commercial;Pickup;no;z_Highly Rural/ Rural;complet;dev_integral;1978;non;oui;60-80k€;200-400K€;_0;5_10;2022;250_500
+F;E5562A35-FC35;Masters;Commercial;Panel Truck;yes;z_Highly Rural/ Rural;complet;dev_integral;1981;non;non;80-100k€;;_0;sup 15;2022;250_500
+F;2E54B2E1-8494;PhD;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_integral;2017;oui;oui;0-20k€;_0;_0;sup 15;2022;250_500
+F;F5900143-8937;Bachelors;Private;Minivan;no;Highly Urban/ Urban;complet;dev_premium;1969;oui;oui;80-100k€;_0;3_6;10_15;2022;250_500
+F;5B30CDBD-1428;z_High School;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;1977;non;oui;0-20k€;_0;3_6;5_10;2022;250_500
+F;E6F79385-C086;Bachelors;Commercial;Panel Truck;yes;z_Highly Rural/ Rural;complet;dev_integral;1965;non;non;sup 100k€;200-400K€;0_3;;2022;250_500
+M;91E14146-E41A;Bachelors;Commercial;Minivan;no;Highly Urban/ Urban;complet;dev_express;2020;non;non;sup 100k€;200-400K€;3_6;10_15;2022;250_500
+M;CE14DCC8-5D12;Bachelors;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1947;oui;oui;;200-400K€;0_3;5_10;2022;250_500
+M;1BC6AF45-4271;PhD;Private;Van;no;Highly Urban/ Urban;complet;dev_vip;1984;non;oui;sup 100k€;sup 400K€;_0;10_15;2022;sup 750
+F;3C28ADEA-B80B;Masters;Private;Minivan;yes;z_Highly Rural/ Rural;complet;dev_integral;1953;non;non;20-40k€;_0;0_3;5_10;2022;250_500
+M;76B8F03C-1855;Masters;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;1985;non;non;sup 100k€;_0;0_3;5_10;2022;250_500
+F;4E8252E8-5F81;Bachelors;Commercial;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1966;non;non;80-100k€;_0;_0;5_10;2022;250_500
+M;1F96AD27-E629;Bachelors;Private;Minivan;no;z_Highly Rural/ Rural;complet;dev_express;2009;non;non;sup 100k€;200-400K€;_0;0_5;2022;250_500
+M;03B4D7E7-06D7;Masters;Commercial;Panel Truck;no;Highly Urban/ Urban;complet;dev_express;2017;oui;oui;sup 100k€;200-400K€;6_9;sup 15;2022;250_500
+M;F73AAEE6-40C1;Masters;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_premium;2015;non;non;60-80k€;200-400K€;_0;10_15;2022;250_500
+M;397F7F22-7D9B;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;2018;non;oui;40-60k€;200-400K€;_0;5_10;2022;250_500
+F;B735F9B2-F47B;Bachelors;Commercial;Van;no;Highly Urban/ Urban;complet;dev_integral;1960;non;non;80-100k€;200-400K€;6_9;5_10;2022;250_500
+M;1363888B-7664;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_premium;1986;non;oui;sup 100k€;200-400K€;3_6;10_15;2022;250_500
+M;D4D9D93E-E72E;<High School;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_integral;1961;non;non;0-20k€;100-200K€;0_3;0_5;2022;250_500
+M;69F32B69-7968;Masters;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;1991;non;non;40-60k€;100-200K€;_0;sup 15;2022;250_500
+M;F561991C-2B1F;Bachelors;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;1951;non;non;0-20k€;100-200K€;0_3;0_5;2022;250_500
+M;257CFF3D-B9E3;<High School;Private;Van;yes;Highly Urban/ Urban;complet;dev_express;1958;non;non;20-40k€;100-200K€;0_3;0_5;2022;250_500
+F;D58BBA2B-5C0F;Masters;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1958;non;non;40-60k€;_0;_0;sup 15;2022;250_500
+F;4927BE87-9BC1;Masters;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_integral;1977;non;non;40-60k€;200-400K€;_0;5_10;2022;250_500
+M;6D1B1E1F-4FC7;z_High School;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_express;2007;non;oui;20-40k€;;0_3;5_10;2022;250_500
+F;549C654F-3C76;z_High School;Commercial;Pickup;yes;Highly Urban/ Urban;complet;dev_integral;1983;non;non;40-60k€;100-200K€;0_3;0_5;2022;250_500
+M;79AC707B-5583;z_High School;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;1943;non;non;40-60k€;200-400K€;_0;5_10;2022;250_500
+F;646A70D4-5913;PhD;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_integral;1993;non;non;80-100k€;200-400K€;0_3;10_15;2022;250_500
+M;84985480-B5DA;Bachelors;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;2003;non;non;80-100k€;_0;_0;5_10;2022;250_500
+F;0F0B5393-5008;Masters;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_integral;1966;non;non;sup 100k€;200-400K€;0_3;10_15;2022;250_500
+F;58538779-74D8;Masters;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_premium;1944;non;non;sup 100k€;200-400K€;0_3;10_15;2022;250_500
+M;EEB4A2A8-FCF1;z_High School;Commercial;Minivan;no;Highly Urban/ Urban;complet;dev_integral;2005;oui;oui;20-40k€;100-200K€;0_3;0_5;2022;250_500
+F;FB6D0850-4FE3;Bachelors;Commercial;Pickup;no;z_Highly Rural/ Rural;complet;dev_express;2019;non;oui;60-80k€;200-400K€;_0;10_15;2022;250_500
+M;A7222D1B-A833;Bachelors;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_integral;2015;non;non;60-80k€;;0_3;10_15;2022;250_500
+M;030578E9-0A6A;z_High School;Commercial;Minivan;yes;z_Highly Rural/ Rural;complet;dev_express;2006;non;non;0-20k€;_0;_0;10_15;2022;250_500
+F;6EC27C2E-2872;z_High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_integral;2015;non;non;60-80k€;200-400K€;_0;5_10;2022;250_500
+M;0E836176-7E71;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;2014;non;non;sup 100k€;200-400K€;3_6;5_10;2022;250_500
+F;9AC385D9-D69D;<High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;2015;non;non;60-80k€;200-400K€;3_6;0_5;2022;250_500
+F;EFF734DE-EC1D;PhD;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1952;non;non;sup 100k€;200-400K€;0_3;10_15;2022;250_500
+F;9AB3E0D6-95CF;z_High School;Private;Minivan;no;Highly Urban/ Urban;complet;dev_express;1989;non;non;20-40k€;;_0;0_5;2022;250_500
+F;F3CC11B8-A4C7;Bachelors;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;1980;non;oui;60-80k€;200-400K€;0_3;5_10;2022;250_500
+F;11D20DFF-4342;z_High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_integral;1936;non;non;20-40k€;100-200K€;0_3;5_10;2022;250_500
+M;B6D3421C-733F;Bachelors;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1993;non;oui;40-60k€;100-200K€;_0;5_10;2022;250_500
+F;6F308A6F-DC78;PhD;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1934;non;oui;20-40k€;100-200K€;_0;10_15;2022;250_500
+F;419D6B98-149E;Masters;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1959;non;non;20-40k€;100-200K€;0_3;;2022;250_500
+F;7E92E65D-53B1;Bachelors;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_integral;2009;non;non;20-40k€;_0;sup 9;0_5;2022;250_500
+F;0D86BF7D-66C6;z_High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_express;1974;non;non;20-40k€;_0;_0;5_10;2022;250_500
+M;A69F0341-3494;<High School;Private;Pickup;no;Highly Urban/ Urban;complet;dev_integral;2020;non;non;20-40k€;100-200K€;0_3;0_5;2022;250_500
+M;C1A2F173-C014;Bachelors;Private;Sports Car;no;z_Highly Rural/ Rural;complet;dev_integral;1953;oui;oui;0-20k€;0-100K€;_0;10_15;2022;250_500
+F;E534FC9B-0FD3;<High School;Commercial;Pickup;yes;z_Highly Rural/ Rural;complet;dev_express;1952;non;non;20-40k€;100-200K€;0_3;5_10;2022;250_500
+F;B5C831D2-E2DB;PhD;Private;Pickup;yes;Highly Urban/ Urban;complet;dev_integral;1957;non;non;sup 100k€;200-400K€;3_6;sup 15;2022;250_500
+F;A1A154B7-18E6;Bachelors;Commercial;Panel Truck;no;z_Highly Rural/ Rural;complet;dev_integral;1941;oui;oui;80-100k€;200-400K€;_0;;2022;250_500
+M;7BEF0830-7F0B;<High School;Private;Sports Car;no;Highly Urban/ Urban;complet;dev_express;1954;non;oui;0-20k€;;0_3;5_10;2022;250_500
+M;AC377FBF-F9A5;PhD;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;1973;non;non;60-80k€;_0;0_3;sup 15;2022;250_500
+M;CABFE424-8C0D;<High School;Private;z_SUV;no;Highly Urban/ Urban;complet;dev_integral;1946;non;oui;60-80k€;_0;6_9;0_5;2022;250_500
+F;712E4EBC-CF06;<High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_express;1942;non;non;20-40k€;100-200K€;_0;5_10;2022;250_500
+F;DF5C6A54-3A1A;<High School;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_premium;2015;non;non;40-60k€;100-200K€;_0;5_10;2022;500_750
+M;A77F1E0A-3536;Bachelors;Commercial;Minivan;no;Highly Urban/ Urban;complet;dev_express;1953;non;non;60-80k€;200-400K€;6_9;5_10;2022;250_500
+M;5F0CA851-09EB;z_High School;Commercial;Pickup;no;Highly Urban/ Urban;complet;dev_express;1962;oui;oui;20-40k€;100-200K€;0_3;5_10;2022;250_500
+M;BE4E8950-897D;Masters;Commercial;Panel Truck;yes;Highly Urban/ Urban;complet;dev_integral;1957;non;non;sup 100k€;_0;3_6;sup 15;2022;250_500
+M;6D1A0682-297B;z_High School;Private;z_SUV;no;z_Highly Rural/ Rural;complet;dev_integral;1940;non;non;20-40k€;100-200K€;0_3;5_10;2022;250_500
+F;759E2270-A7FE;Masters;Private;Minivan;yes;Highly Urban/ Urban;complet;dev_express;1960;non;non;sup 100k€;200-400K€;0_3;sup 15;2022;250_500
+M;3B95C97D-8C5C;z_High School;Private;Minivan;no;z_Highly Rural/ Rural;complet;dev_express;2012;non;non;40-60k€;100-200K€;0_3;0_5;2022;250_500
+F;A8827E48-6D89;z_High School;Private;Minivan;no;Highly Urban/ Urban;complet;dev_integral;1961;non;non;60-80k€;200-400K€;0_3;0_5;2022;250_500
+F;7350E349-63D8;Bachelors;Commercial;Van;no;Highly Urban/ Urban;complet;dev_premium;1951;non;non;80-100k€;200-400K€;3_6;0_5;2022;250_500
+M;6E636BC0-E53E;z_High School;Private;Minivan;no;z_Highly Rural/ Rural;complet;dev_integral;1934;oui;non;40-60k€;_0;_0;0_5;2022;250_500
